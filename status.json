@@ -1,0 +1,401 @@
+{
+ "updated": "2026-11-19T21:50:45+00:00",
+ "stories": [
+  {
+   "slug": "bulkway",
+   "title": "Snowed In at Bulkway",
+   "parts": [
+    {
+     "series": "bulkway",
+     "part": 1,
+     "written": true,
+     "voiced": false,
+     "rendered": true,
+     "posted": "2026-11-18T20:41:14+00:00",
+     "video": "https://res.cloudinary.com/rbigcy03/video/upload/v1795034463/lnl-stories/bulkway__part1.mp4",
+     "post_note": null,
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795124500/lnl-stories/previews/bulkway__part1.mp4"
+    },
+    {
+     "series": "bulkway",
+     "part": 2,
+     "title": "The Nest",
+     "summary": "Aisle twenty-two is empty, but camera six still shows the man sitting there. Marcus finds a nest on the top shelf, with a notebook tracking all three of their shifts and Dana's alarm code. Camera six's clock is frozen at 4:37: someone looped the feed. Then the generator dies two days early, the fuel can is empty and still wet, and a voice behind you in the dark says not to open the bay door. Nobody's there.",
+     "end_card": {
+      "title": "PART 3",
+      "hook": "Who's living in the store?"
+     },
+     "script": [
+      "Aisle twenty-two is empty. But on Dana's screen, he's still sitting there.",
+      "Your radio crackles. \"He's right in front of you,\" Dana says. \"He hasn't moved.\"",
+      "You're standing on the exact spot. Nothing but crumbs and a torn bag.",
+      "Marcus looks up. On the top shelf, twenty feet up, a sleeping bag hangs over the edge.",
+      "He climbs. \"Somebody's been living up here,\" Marcus says. \"For weeks.\"",
+      "Canned food. A flashlight. Store hoodies with the tags still on.",
+      "And a notebook. He drops it down to you.",
+      "Inside are three columns. Dana. Marcus. And a drawing of your orange beanie.",
+      "Every shift you've worked since October. Under Dana's name, four numbers. \"That's my alarm code,\" she whispers.",
+      "Back at the office, camera six still shows him. Same spot. Same bag.",
+      "Dana leans in. The clock in the corner of the feed isn't moving. Four thirty-seven. Frozen.",
+      "\"Someone looped it,\" Marcus says. \"We've been watching a recording.\"",
+      "Then the generator coughs twice, and the whole store goes black.",
+      "\"That's two days early,\" Dana says. \"Somebody drained it.\"",
+      "Your flashlight finds the fuel can. Tipped over. Empty. Still wet.",
+      "Whoever did it was here a minute ago. And they're still inside.",
+      "Then a voice, right behind you in the dark. \"Don't open the bay door.\"",
+      "You spin around. Your light hits the racking. Nobody's there."
+     ],
+     "written": true,
+     "voiced": true,
+     "rendered": true,
+     "posted": "2026-11-19T20:36:06+00:00",
+     "video": "https://res.cloudinary.com/rbigcy03/video/upload/v1795120554/lnl-stories/bulkway__part2.mp4",
+     "post_note": "TikTok blocked the Buffer upload as possible spam; Rishi posted it by hand on 2026-11-19",
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795124502/lnl-stories/previews/bulkway__part2.mp4"
+    },
+    {
+     "series": "bulkway",
+     "part": 3,
+     "written": false,
+     "voiced": false,
+     "rendered": false
+    },
+    {
+     "series": "bulkway",
+     "part": 4,
+     "written": false,
+     "voiced": false,
+     "rendered": false
+    },
+    {
+     "series": "bulkway",
+     "part": 5,
+     "written": false,
+     "voiced": false,
+     "rendered": false
+    }
+   ],
+   "paused": false
+  },
+  {
+   "slug": "nighttrain",
+   "title": "Don't Miss Your Stop",
+   "parts": [
+    {
+     "series": "nighttrain",
+     "part": 1,
+     "written": false,
+     "voiced": false,
+     "rendered": false
+    },
+    {
+     "series": "nighttrain",
+     "part": 2,
+     "written": false,
+     "voiced": false,
+     "rendered": false
+    },
+    {
+     "series": "nighttrain",
+     "part": 3,
+     "written": false,
+     "voiced": false,
+     "rendered": false
+    },
+    {
+     "series": "nighttrain",
+     "part": 4,
+     "written": false,
+     "voiced": false,
+     "rendered": false
+    },
+    {
+     "series": "nighttrain",
+     "part": 5,
+     "written": false,
+     "voiced": false,
+     "rendered": false
+    }
+   ],
+   "paused": false
+  }
+ ],
+ "runs": [
+  {
+   "name": "dashboard",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-19T21:50:22Z",
+   "updated": "2026-11-19T21:50:27Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44622762289",
+   "event": "workflow_dispatch",
+   "title": "dashboard"
+  },
+  {
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-19T21:41:12Z",
+   "updated": "2026-11-19T21:41:50Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44621249459",
+   "event": "push",
+   "title": "Render instructions: keep the dashboard's render status up to date"
+  },
+  {
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-19T21:41:02Z",
+   "updated": "2026-11-19T21:41:14Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44621224346",
+   "event": "push",
+   "title": "Dashboard: fallback refresh every 2 hours"
+  },
+  {
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-19T21:40:55Z",
+   "updated": "2026-11-19T21:41:06Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44621205450",
+   "event": "push",
+   "title": "Live dashboard: status builder, page, workflow (pushes to the public …"
+  },
+  {
+   "name": "write next brief",
+   "status": "pending",
+   "conclusion": null,
+   "started": "2026-11-19T21:30:38Z",
+   "updated": "2026-11-19T21:30:40Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44619475420",
+   "event": "workflow_dispatch",
+   "title": "write next brief"
+  },
+  {
+   "name": "write next brief",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-19T21:30:33Z",
+   "updated": "2026-11-19T21:30:42Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44619461188",
+   "event": "workflow_dispatch",
+   "title": "write next brief"
+  },
+  {
+   "name": "write next brief",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-19T21:06:26Z",
+   "updated": "2026-11-19T21:30:24Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44615396516",
+   "event": "workflow_dispatch",
+   "title": "write next brief"
+  },
+  {
+   "name": "write next brief",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-19T20:54:48Z",
+   "updated": "2026-11-19T21:30:39Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44613451666",
+   "event": "workflow_dispatch",
+   "title": "write next brief"
+  },
+  {
+   "name": "post next part",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-19T20:35:29Z",
+   "updated": "2026-11-19T20:36:10Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44610224046",
+   "event": "workflow_dispatch",
+   "title": "post next part"
+  },
+  {
+   "name": "post next part",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-19T20:34:38Z",
+   "updated": "2026-11-19T20:35:09Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44610075862",
+   "event": "workflow_dispatch",
+   "title": "post next part"
+  },
+  {
+   "name": "post next part",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-19T07:38:51Z",
+   "updated": "2026-11-19T07:39:25Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44481224726",
+   "event": "schedule",
+   "title": "post next part"
+  },
+  {
+   "name": "voice-takes",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-19T05:28:28Z",
+   "updated": "2026-11-19T05:35:53Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44465408112",
+   "event": "workflow_dispatch",
+   "title": "voice-takes"
+  },
+  {
+   "name": "voice",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-19T04:58:06Z",
+   "updated": "2026-11-19T05:04:12Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44461885343",
+   "event": "workflow_dispatch",
+   "title": "voice"
+  },
+  {
+   "name": "voice",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-19T04:33:00Z",
+   "updated": "2026-11-19T04:42:33Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44459083923",
+   "event": "workflow_dispatch",
+   "title": "voice"
+  },
+  {
+   "name": "voice",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-19T02:47:09Z",
+   "updated": "2026-11-19T02:52:49Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44446813346",
+   "event": "workflow_dispatch",
+   "title": "voice"
+  },
+  {
+   "name": "voice",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-19T02:30:12Z",
+   "updated": "2026-11-19T02:45:10Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44444779264",
+   "event": "workflow_dispatch",
+   "title": "voice"
+  },
+  {
+   "name": "voice",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-19T02:02:17Z",
+   "updated": "2026-11-19T02:29:29Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44441337787",
+   "event": "workflow_dispatch",
+   "title": "voice"
+  },
+  {
+   "name": "voice",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-19T02:02:15Z",
+   "updated": "2026-11-19T02:04:57Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44441333379",
+   "event": "push",
+   "title": "Bulkway rework: new bible (the nest, Ray, the truck crew siege) and n…"
+  },
+  {
+   "name": "voice",
+   "status": "completed",
+   "conclusion": "failure",
+   "started": "2026-11-18T22:31:15Z",
+   "updated": "2026-11-18T23:00:08Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44412347275",
+   "event": "workflow_dispatch",
+   "title": "voice"
+  },
+  {
+   "name": "voice test",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-18T21:36:25Z",
+   "updated": "2026-11-18T22:14:24Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44403206224",
+   "event": "workflow_dispatch",
+   "title": "voice test"
+  },
+  {
+   "name": "write next brief",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-18T21:22:35Z",
+   "updated": "2026-11-18T21:54:19Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44400817068",
+   "event": "workflow_dispatch",
+   "title": "write next brief"
+  },
+  {
+   "name": "voice test",
+   "status": "completed",
+   "conclusion": "failure",
+   "started": "2026-11-18T20:58:16Z",
+   "updated": "2026-11-18T21:35:55Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44396557545",
+   "event": "workflow_dispatch",
+   "title": "voice test"
+  },
+  {
+   "name": "voice test",
+   "status": "completed",
+   "conclusion": "failure",
+   "started": "2026-11-18T20:54:38Z",
+   "updated": "2026-11-18T20:57:50Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44395942910",
+   "event": "workflow_dispatch",
+   "title": "voice test"
+  },
+  {
+   "name": "write next brief",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-18T20:50:11Z",
+   "updated": "2026-11-18T21:21:36Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44395163703",
+   "event": "workflow_dispatch",
+   "title": "write next brief"
+  },
+  {
+   "name": "post next part",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-18T20:40:20Z",
+   "updated": "2026-11-18T20:41:19Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44393464331",
+   "event": "workflow_dispatch",
+   "title": "post next part"
+  }
+ ],
+ "render": {
+  "state": "idle"
+ },
+ "schedule": [
+  {
+   "what": "Write the next script",
+   "when": "daily 9:47 AM ET",
+   "where": "GitHub"
+  },
+  {
+   "what": "Record voices",
+   "when": "daily 4:17 PM ET (and right after a script lands)",
+   "where": "GitHub"
+  },
+  {
+   "what": "Post the next part",
+   "when": "daily 7:23 PM ET",
+   "where": "GitHub → Cloudinary → Buffer → TikTok"
+  },
+  {
+   "what": "Render the next part",
+   "when": "nightly 1:37 AM ET",
+   "where": "Claude"
+  }
+ ],
+ "next_post_order": "stories take turns; bulkway waits for nighttrain part 1"
+}
