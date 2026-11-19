@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:51:42+00:00",
+ "updated": "2026-11-19T22:54:53+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -152,8 +152,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-19T22:54:29Z",
+   "updated": "2026-11-19T22:54:33Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632926369",
+   "event": "push",
+   "title": "Don't Miss Your Stop part 1: shots (soft style), POV sheet, doors, ph…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-19T22:51:15Z",
-   "updated": "2026-11-19T22:51:21Z",
+   "updated": "2026-11-19T22:51:49Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632447208",
    "event": "workflow_run",
    "title": "dashboard"
@@ -417,17 +428,6 @@
    "updated": "2026-11-19T20:35:09Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44610075862",
    "event": "workflow_dispatch",
-   "title": "post next part"
-  },
-  {
-   "target": null,
-   "name": "post next part",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T07:38:51Z",
-   "updated": "2026-11-19T07:39:25Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44481224726",
-   "event": "schedule",
    "title": "post next part"
   }
  ],
