@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:17:09+00:00",
+ "updated": "2026-11-19T23:17:59+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -152,8 +152,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-19T23:17:28Z",
+   "updated": "2026-11-19T23:17:32Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44636366486",
+   "event": "workflow_dispatch",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-19T23:16:46Z",
-   "updated": "2026-11-19T23:16:50Z",
+   "updated": "2026-11-19T23:17:16Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44636266571",
    "event": "workflow_run",
    "title": "dashboard"
@@ -418,21 +429,16 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44613451666",
    "event": "workflow_dispatch",
    "title": "write next brief"
-  },
-  {
-   "target": null,
-   "name": "post next part",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T20:35:29Z",
-   "updated": "2026-11-19T20:36:10Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44610224046",
-   "event": "workflow_dispatch",
-   "title": "post next part"
   }
  ],
  "render": {
-  "state": "idle"
+  "state": "rendering",
+  "series": "nighttrain",
+  "title": "Don't Miss Your Stop",
+  "part": 1,
+  "step": "building video",
+  "started": "2026-11-19T23:17:25Z",
+  "note": ""
  },
  "schedule": [
   {
