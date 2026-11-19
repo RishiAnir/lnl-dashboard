@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:04:34+00:00",
+ "updated": "2026-11-19T22:24:08+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -84,7 +84,33 @@
     {
      "series": "nighttrain",
      "part": 1,
-     "written": false,
+     "title": "Wake Up",
+     "summary": "You wake on a train where every passenger stares at you. Your phone is stuck at 2:14 AM with no signal. June gives you a handwritten list of rules. The conductor appears, punches your ticket, and moves on. June reveals her own ticket, punched so many times it is almost lace, warning you that each hole marks a missed stop. The lights flicker and the train shudders toward the next unknown station.",
+     "end_card": {
+      "title": "PART 2",
+      "hook": "Will you get off at your name?"
+     },
+     "script": [
+      "You wake up and every passenger is staring at you.",
+      "The windows are black. Your phone reads two fourteen in the morning. No signal.",
+      "The route map above the doors lists stops you never heard of.",
+      "June sits across the aisle knitting a scarf that trails the floor.",
+      "She gives you a meek sorry smile and says \"Oh sweetheart not you too.\"",
+      "She hands you a folded sheet and whispers \"Read it. Do exactly what it says.\"",
+      "You unfold the page. Every passenger unfolds their newspaper at the same moment.",
+      "You lift your hand. Every hand in the car lifts with you.",
+      "Rule nine flashes in your mind. You freeze until the papers rustle back.",
+      "A man in a red tracksuit laughs and yanks the door handle shouting \"This door is stuck ha ha.\"",
+      "The conductor appears at your seat and says \"Ticket please.\"",
+      "You smile and stay silent just like rule two demands.",
+      "He punches your ticket with a sharp click and moves on.",
+      "June stares at the fresh hole in your ticket and goes pale.",
+      "She holds up her own ticket punched so many times it is almost lace.",
+      "She whispers \"One hole for every stop you miss.\"",
+      "The fluorescent lights flicker. The train shudders as the next stop approaches.",
+      "You clutch the rules and wonder what the next hole will mean."
+     ],
+     "written": true,
      "rendered": false,
      "voiced": false
     },
@@ -126,8 +152,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-19T22:23:43Z",
+   "updated": "2026-11-19T22:23:47Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44628208135",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-19T22:04:06Z",
-   "updated": "2026-11-19T22:04:14Z",
+   "updated": "2026-11-19T22:04:41Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44624985262",
    "event": "push",
    "title": "Dashboard: refresh button, rebuild-now link, clearer timestamps, chec…"
@@ -190,10 +227,10 @@
   {
    "target": null,
    "name": "write next brief",
-   "status": "pending",
+   "status": "in_progress",
    "conclusion": null,
    "started": "2026-11-19T21:30:38Z",
-   "updated": "2026-11-19T21:30:40Z",
+   "updated": "2026-11-19T22:23:44Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44619475420",
    "event": "workflow_dispatch",
    "title": "write next brief"
@@ -201,10 +238,10 @@
   {
    "target": null,
    "name": "write next brief",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-19T21:30:33Z",
-   "updated": "2026-11-19T21:30:42Z",
+   "updated": "2026-11-19T22:23:40Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44619461188",
    "event": "workflow_dispatch",
    "title": "write next brief"
@@ -382,17 +419,6 @@
    "started": "2026-11-18T20:58:16Z",
    "updated": "2026-11-18T21:35:55Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44396557545",
-   "event": "workflow_dispatch",
-   "title": "voice test"
-  },
-  {
-   "target": null,
-   "name": "voice test",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-18T20:54:38Z",
-   "updated": "2026-11-18T20:57:50Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44395942910",
    "event": "workflow_dispatch",
    "title": "voice test"
   }
