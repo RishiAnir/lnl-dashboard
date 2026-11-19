@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:29:07+00:00",
+ "updated": "2026-11-19T22:51:42+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -88,7 +88,7 @@
      "summary": "You wake on a train where every passenger stares at you. Your phone is stuck at 2:14 AM with no signal. June gives you a handwritten list of rules. The conductor appears, punches your ticket, and moves on. June reveals her own ticket, punched so many times it is almost lace, warning you that each hole marks a missed stop. The lights flicker and the train shudders toward the next unknown station.",
      "end_card": {
       "title": "PART 2",
-      "hook": "Will you get off at your name?"
+      "hook": "How long has June been riding?"
      },
      "script": [
       "You wake up and every passenger is staring at you.",
@@ -99,16 +99,16 @@
       "She hands you a folded sheet and whispers \"Read it. Do exactly what it says.\"",
       "You unfold the page. Every passenger unfolds their newspaper at the same moment.",
       "You lift your hand. Every hand in the car lifts with you.",
-      "Rule nine flashes in your mind. You freeze until the papers rustle back.",
-      "A man in a red tracksuit laughs and yanks the door handle shouting \"This door is stuck ha ha.\"",
+      "Rule nine. If they copy you, freeze. You hold still until the papers rustle back.",
+      "A man in a red tracksuit yanks the door handle and laughs. \"Relax, it's a prank show.\"",
       "The conductor appears at your seat and says \"Ticket please.\"",
-      "You smile and stay silent just like rule two demands.",
+      "You smile and say nothing, just like rule two says.",
       "He punches your ticket with a sharp click and moves on.",
       "June stares at the fresh hole in your ticket and goes pale.",
       "She holds up her own ticket punched so many times it is almost lace.",
-      "She whispers \"One hole for every stop you miss.\"",
-      "The fluorescent lights flicker. The train shudders as the next stop approaches.",
-      "You clutch the rules and wonder what the next hole will mean."
+      "She whispers, \"One hole for every stop you miss.\"",
+      "You look down at your ticket. One hole.",
+      "Hers has hundreds."
      ],
      "written": true,
      "rendered": false,
@@ -152,8 +152,115 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-19T22:51:15Z",
+   "updated": "2026-11-19T22:51:21Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632447208",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-19T22:51:02Z",
+   "updated": "2026-11-19T22:51:18Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632413310",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-19T22:51:01Z",
+   "updated": "2026-11-19T22:51:03Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632411757",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": {
+    "series": "nighttrain",
+    "part": 1,
+    "story": "Don't Miss Your Stop"
+   },
+   "name": "Voice nighttrain part 1",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-19T22:50:59Z",
+   "updated": "2026-11-19T22:51:11Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632406766",
+   "event": "workflow_dispatch",
+   "title": "Voice nighttrain part 1"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-19T22:50:57Z",
+   "updated": "2026-11-19T22:51:01Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632403035",
+   "event": "push",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-19T22:50:57Z",
+   "updated": "2026-11-19T22:51:03Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632402997",
+   "event": "push",
+   "title": "Don't Miss Your Stop part 1: tighter ending (one hole vs hundreds), n…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-19T22:50:51Z",
+   "updated": "2026-11-19T22:51:01Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632386445",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-19T22:50:27Z",
+   "updated": "2026-11-19T22:50:55Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632327917",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": {
+    "series": "nighttrain",
+    "part": 1,
+    "story": "Don't Miss Your Stop"
+   },
+   "name": "Voice nighttrain part 1",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-19T22:50:24Z",
+   "updated": "2026-11-19T22:50:46Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632319943",
+   "event": "workflow_dispatch",
+   "title": "Voice nighttrain part 1"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-19T22:28:41Z",
-   "updated": "2026-11-19T22:28:46Z",
+   "updated": "2026-11-19T22:29:13Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44628977359",
    "event": "workflow_run",
    "title": "dashboard"
@@ -322,105 +429,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44481224726",
    "event": "schedule",
    "title": "post next part"
-  },
-  {
-   "target": null,
-   "name": "voice-takes",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T05:28:28Z",
-   "updated": "2026-11-19T05:35:53Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44465408112",
-   "event": "workflow_dispatch",
-   "title": "voice-takes"
-  },
-  {
-   "target": null,
-   "name": "voice",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T04:58:06Z",
-   "updated": "2026-11-19T05:04:12Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44461885343",
-   "event": "workflow_dispatch",
-   "title": "voice"
-  },
-  {
-   "target": null,
-   "name": "voice",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T04:33:00Z",
-   "updated": "2026-11-19T04:42:33Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44459083923",
-   "event": "workflow_dispatch",
-   "title": "voice"
-  },
-  {
-   "target": null,
-   "name": "voice",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T02:47:09Z",
-   "updated": "2026-11-19T02:52:49Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44446813346",
-   "event": "workflow_dispatch",
-   "title": "voice"
-  },
-  {
-   "target": null,
-   "name": "voice",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T02:30:12Z",
-   "updated": "2026-11-19T02:45:10Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44444779264",
-   "event": "workflow_dispatch",
-   "title": "voice"
-  },
-  {
-   "target": null,
-   "name": "voice",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T02:02:17Z",
-   "updated": "2026-11-19T02:29:29Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44441337787",
-   "event": "workflow_dispatch",
-   "title": "voice"
-  },
-  {
-   "target": null,
-   "name": "voice",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T02:02:15Z",
-   "updated": "2026-11-19T02:04:57Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44441333379",
-   "event": "push",
-   "title": "Bulkway rework: new bible (the nest, Ray, the truck crew siege) and n…"
-  },
-  {
-   "target": null,
-   "name": "voice",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-18T22:31:15Z",
-   "updated": "2026-11-18T23:00:08Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44412347275",
-   "event": "workflow_dispatch",
-   "title": "voice"
-  },
-  {
-   "target": null,
-   "name": "voice test",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-18T21:36:25Z",
-   "updated": "2026-11-18T22:14:24Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44403206224",
-   "event": "workflow_dispatch",
-   "title": "voice test"
   }
  ],
  "render": {
