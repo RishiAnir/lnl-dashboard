@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:17:59+00:00",
+ "updated": "2026-11-19T23:27:22+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -152,8 +152,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-19T23:26:57Z",
+   "updated": "2026-11-19T23:27:01Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44637735605",
+   "event": "push",
+   "title": "Don't Miss Your Stop part 1 rendered (build passes; held out of rende…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-19T23:17:28Z",
-   "updated": "2026-11-19T23:17:32Z",
+   "updated": "2026-11-19T23:18:05Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44636366486",
    "event": "workflow_dispatch",
    "title": "dashboard"
@@ -418,27 +429,11 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44615396516",
    "event": "workflow_dispatch",
    "title": "write next brief"
-  },
-  {
-   "target": null,
-   "name": "write next brief",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-19T20:54:48Z",
-   "updated": "2026-11-19T21:30:39Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44613451666",
-   "event": "workflow_dispatch",
-   "title": "write next brief"
   }
  ],
  "render": {
-  "state": "rendering",
-  "series": "nighttrain",
-  "title": "Don't Miss Your Stop",
-  "part": 1,
-  "step": "building video",
-  "started": "2026-11-19T23:17:25Z",
-  "note": ""
+  "state": "idle",
+  "note": "Train part 1 rendered, waiting for Rishi"
  },
  "schedule": [
   {
