@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:04:05+00:00",
+ "updated": "2026-11-19T22:04:34+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -126,8 +126,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-19T22:04:06Z",
+   "updated": "2026-11-19T22:04:14Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44624985262",
+   "event": "push",
+   "title": "Dashboard: refresh button, rebuild-now link, clearer timestamps, chec…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
    "started": "2026-11-19T22:03:41Z",
-   "updated": "2026-11-19T22:03:45Z",
+   "updated": "2026-11-19T22:04:11Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44624916845",
    "event": "push",
    "title": "Dashboard: show which story and part each job is for; light up only t…"
@@ -384,17 +395,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44395942910",
    "event": "workflow_dispatch",
    "title": "voice test"
-  },
-  {
-   "target": null,
-   "name": "write next brief",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-18T20:50:11Z",
-   "updated": "2026-11-18T21:21:36Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44395163703",
-   "event": "workflow_dispatch",
-   "title": "write next brief"
   }
  ],
  "render": {
