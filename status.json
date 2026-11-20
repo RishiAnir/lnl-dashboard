@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:31:18+00:00",
+ "updated": "2026-11-20T23:38:39+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -83,8 +83,9 @@
       "Ray's eyes lock on yours. \"They found us.\""
      ],
      "written": true,
-     "rendered": false,
-     "voiced": true
+     "rendered": true,
+     "voiced": true,
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795217920/lnl-stories/previews/bulkway__part3.mp4"
     },
     {
      "series": "bulkway",
@@ -247,8 +248,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T23:38:01Z",
+   "updated": "2026-11-20T23:38:08Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44838224403",
+   "event": "push",
+   "title": "Bulkway part 3 subtitles"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-20T23:37:57Z",
+   "updated": "2026-11-20T23:38:05Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44838215713",
+   "event": "push",
+   "title": "Bulkway part 3 rendered (preview); accept bean/beam in the mix check"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T23:30:39Z",
-   "updated": "2026-11-20T23:30:43Z",
+   "updated": "2026-11-20T23:31:24Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44837303390",
    "event": "push",
    "title": "Bulkway P3 mix: stop the zip-tie click loop from running forever"
@@ -498,35 +521,11 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44739619679",
    "event": "push",
    "title": "Voice check: accept shutters/shudders, Raise/Ray's, root/route as sou…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-20T12:53:27Z",
-   "updated": "2026-11-20T12:53:59Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44739553479",
-   "event": "push",
-   "title": "Render status: train part 1"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T12:52:43Z",
-   "updated": "2026-11-20T12:53:18Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44739453698",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
-  "state": "rendering",
-  "series": "bulkway",
-  "part": 3,
-  "note": "Rendering Bulkway part 3"
+  "state": "idle",
+  "note": "Bulkway part 3 rendered"
  },
  "schedule": [
   {
