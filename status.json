@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:08:27+00:00",
+ "updated": "2026-11-20T11:12:50+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -202,8 +202,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T11:12:22Z",
+   "updated": "2026-11-20T11:12:26Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44725665379",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T11:08:02Z",
-   "updated": "2026-11-20T11:08:06Z",
+   "updated": "2026-11-20T11:08:33Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44725053015",
    "event": "push",
    "title": "Don't Miss Your Stop part 1: new shots for the longer cut (the ordina…"
@@ -222,10 +233,10 @@
   {
    "target": null,
    "name": "Voice every part missing a voice",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "cancelled",
    "started": "2026-11-20T11:04:28Z",
-   "updated": "2026-11-20T11:04:32Z",
+   "updated": "2026-11-20T11:12:20Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44724535999",
    "event": "push",
    "title": "Voice every part missing a voice"
@@ -462,17 +473,6 @@
    "started": "2026-11-19T22:50:51Z",
    "updated": "2026-11-19T22:51:01Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632386445",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-19T22:50:27Z",
-   "updated": "2026-11-19T22:50:55Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632327917",
    "event": "workflow_run",
    "title": "dashboard"
   }
