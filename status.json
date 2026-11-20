@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:35:41+00:00",
+ "updated": "2026-11-20T21:52:16+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -209,8 +209,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T21:51:35Z",
+   "updated": "2026-11-20T21:51:39Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44823996008",
+   "event": "schedule",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T21:35:07Z",
-   "updated": "2026-11-20T21:35:10Z",
+   "updated": "2026-11-20T21:35:48Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44821623832",
    "event": "push",
    "title": "Bulkway part 3: shots (cold open fall, the catch, Ray hood down and z…"
@@ -471,17 +482,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44725994769",
    "event": "push",
    "title": "Voice every part missing a voice"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T11:12:22Z",
-   "updated": "2026-11-20T11:12:57Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44725665379",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
