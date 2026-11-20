@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:21:26+00:00",
+ "updated": "2026-11-20T18:27:40+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -206,8 +206,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T18:27:05Z",
+   "updated": "2026-11-20T18:27:13Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44792870103",
+   "event": "push",
+   "title": "Render status: re-rendering train part 1"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-20T18:26:59Z",
+   "updated": "2026-11-20T18:27:09Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44792855306",
+   "event": "push",
+   "title": "Train part 1: everyone sitting reads as sitting (seat cushion, lap an…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T18:20:44Z",
-   "updated": "2026-11-20T18:20:49Z",
+   "updated": "2026-11-20T18:21:38Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44791872879",
    "event": "push",
    "title": "Dashboard: show previews/ renders (parts Rishi posts himself) without…"
@@ -453,33 +475,13 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44659809778",
    "event": "schedule",
    "title": "Voice every part missing a voice"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T00:17:45Z",
-   "updated": "2026-11-20T00:18:17Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44644701249",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T23:40:37Z",
-   "updated": "2026-11-19T23:41:06Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44639647508",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
-  "state": "idle",
-  "note": "Train part 1 rendered (3:19), waiting for Rishi to post"
+  "state": "rendering",
+  "series": "nighttrain",
+  "part": 1,
+  "note": "Re-rendering train part 1: seated passengers, one opening shot"
  },
  "schedule": [
   {
