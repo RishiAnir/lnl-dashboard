@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:29:15+00:00",
+ "updated": "2026-11-20T21:35:41+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -209,8 +209,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T21:35:07Z",
+   "updated": "2026-11-20T21:35:10Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44821623832",
+   "event": "push",
+   "title": "Bulkway part 3: shots (cold open fall, the catch, Ray hood down and z…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T21:28:39Z",
-   "updated": "2026-11-20T21:28:43Z",
+   "updated": "2026-11-20T21:29:22Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44820637060",
    "event": "workflow_run",
    "title": "dashboard"
@@ -471,22 +482,13 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44725665379",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T11:08:02Z",
-   "updated": "2026-11-20T11:08:33Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44725053015",
-   "event": "push",
-   "title": "Don't Miss Your Stop part 1: new shots for the longer cut (the ordina…"
   }
  ],
  "render": {
-  "state": "idle",
-  "note": "Train part 1 re-rendered (seated passengers, one opening shot), waiting for Rishi to post"
+  "state": "rendering",
+  "series": "bulkway",
+  "part": 3,
+  "note": "Rendering Bulkway part 3"
  },
  "schedule": [
   {
