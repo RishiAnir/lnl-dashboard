@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:01:08+00:00",
+ "updated": "2026-11-20T21:02:17+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -166,6 +166,9 @@
      "written": true,
      "rendered": true,
      "voiced": true,
+     "posted": "2026-11-20T21:01:30+00:00",
+     "video": "https://res.cloudinary.com/rbigcy03/video/upload/v1795208475/lnl-stories/nighttrain__part1.mp4",
+     "post_note": null,
      "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795200893/lnl-stories/previews/nighttrain__part1.mp4"
     },
     {
@@ -206,8 +209,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T21:01:39Z",
+   "updated": "2026-11-20T21:01:43Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816611894",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T21:00:27Z",
-   "updated": "2026-11-20T21:00:32Z",
+   "updated": "2026-11-20T21:01:14Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816417360",
    "event": "workflow_run",
    "title": "dashboard"
@@ -252,10 +266,10 @@
   {
    "target": null,
    "name": "Post next part",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T21:00:22Z",
-   "updated": "2026-11-20T21:00:28Z",
+   "updated": "2026-11-20T21:01:35Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816404737",
    "event": "workflow_dispatch",
    "title": "Post next part"
@@ -468,17 +482,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44724535999",
    "event": "push",
    "title": "Voice every part missing a voice"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-20T11:04:28Z",
-   "updated": "2026-11-20T11:04:36Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44724535985",
-   "event": "push",
-   "title": "Don't Miss Your Stop part 1 rewritten with Rishi: quiet opening, obse…"
   }
  ],
  "render": {
