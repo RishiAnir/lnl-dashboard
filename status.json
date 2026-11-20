@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:27:40+00:00",
+ "updated": "2026-11-20T18:54:52+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -166,7 +166,7 @@
      "written": true,
      "rendered": true,
      "voiced": true,
-     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795198888/lnl-stories/previews/nighttrain__part1.mp4"
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795200893/lnl-stories/previews/nighttrain__part1.mp4"
     },
     {
      "series": "nighttrain",
@@ -206,8 +206,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T18:54:15Z",
+   "updated": "2026-11-20T18:54:19Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44797130202",
+   "event": "push",
+   "title": "Train part 1 re-render: seated passengers, one opening shot"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T18:27:05Z",
-   "updated": "2026-11-20T18:27:13Z",
+   "updated": "2026-11-20T18:27:46Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44792870103",
    "event": "push",
    "title": "Render status: re-rendering train part 1"
@@ -464,24 +475,11 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44659814047",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Voice every part missing a voice",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-20T02:18:16Z",
-   "updated": "2026-11-20T03:14:45Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44659809778",
-   "event": "schedule",
-   "title": "Voice every part missing a voice"
   }
  ],
  "render": {
-  "state": "rendering",
-  "series": "nighttrain",
-  "part": 1,
-  "note": "Re-rendering train part 1: seated passengers, one opening shot"
+  "state": "idle",
+  "note": "Train part 1 re-rendered (seated passengers, one opening shot), waiting for Rishi to post"
  },
  "schedule": [
   {
