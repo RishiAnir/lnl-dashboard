@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:15:14+00:00",
+ "updated": "2026-11-20T03:28:25+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -204,8 +204,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T03:28:01Z",
+   "updated": "2026-11-20T03:28:05Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44667906632",
+   "event": "schedule",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T03:14:48Z",
-   "updated": "2026-11-20T03:14:52Z",
+   "updated": "2026-11-20T03:15:18Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44666391319",
    "event": "workflow_run",
    "title": "dashboard"
@@ -470,17 +481,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44622762289",
    "event": "workflow_dispatch",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T21:41:12Z",
-   "updated": "2026-11-19T21:41:50Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44621249459",
-   "event": "push",
-   "title": "Render instructions: keep the dashboard's render status up to date"
   }
  ],
  "render": {
