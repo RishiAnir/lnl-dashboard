@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:00:02+00:00",
+ "updated": "2026-11-20T23:27:29+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -181,7 +181,45 @@
     {
      "series": "nighttrain",
      "part": 3,
-     "written": false,
+     "title": "The Handwriting",
+     "summary": "June hangs up the phone that whispered your name and warns you never to answer. She reveals she missed her stop in 1987 because a figure wearing her mother's coat waited on the platform, and she has ridden the train ever since. You glance at the rules again and recognize the handwriting as your own — the loops, the crossed sevens. In the black window your reflection keeps reading after you look up, then blinks first; you look away just in time. The route map flickers and the next stop changes to your name. The train slows, June begs you not to get off, and through the opening doors your mother waves, smiling too wide.",
+     "end_card": {
+      "title": "PART 4",
+      "hook": "Will you get off?"
+     },
+     "script": [
+      "June hangs up the phone that whispered your name slowly.",
+      "She doesn't look at the screen, just ends the call quickly.",
+      "\"Never answer,\" she says, voice thin and tired.",
+      "The train rocks gently, fluorescent tubes humming overhead softly.",
+      "June folds her hands over the scarf trailing the floor slowly.",
+      "\"In nineteen eighty seven I missed my stop,\" she begins, staring at her knitting quietly.",
+      "\"The platform was empty except for one figure standing under the lamp.\"",
+      "\"It wore my mother's coat and smiled too wide, exactly like it knew me.\"",
+      "\"I stayed in my seat. The doors closed and the train pulled away slowly.\"",
+      "\"I have been riding ever since, watching others make the same mistake every night.\"",
+      "You glance at the rules sheet again, paper crisp in your fingers carefully.",
+      "The handwriting catches your eye — the loops, the crossed sevens, the slant sharp.",
+      "It is exactly your handwriting.",
+      "Your breath catches. You have been here before again.",
+      "In the black window your reflection is still reading the page silently.",
+      "You have already looked up, but the reflection has not yet.",
+      "Then your reflection blinks first suddenly.",
+      "You look away just in time, heart pounding hard.",
+      "Rule eight echoes: if your reflection blinks before you do, look away clearly.",
+      "The route map above the doors flickers, green light stuttering faintly.",
+      "The next stop name shifts, letters rearranging like smoke slowly.",
+      "It finally becomes your name.",
+      "The train begins to slow, brakes sighing against the rails loudly.",
+      "June grips your wrist, fingers cold and strong tight.",
+      "\"That's your stop,\" she whispers, eyes wide now.",
+      "\"Don't get off. Please. Not like I ever did.\"",
+      "The doors hiss open, revealing the platform lights bright.",
+      "On the platform a woman waves alone under a flickering lamp cold.",
+      "It is your mother standing.",
+      "She smiles too wide, exactly just like the figure June described."
+     ],
+     "written": true,
      "rendered": false,
      "voiced": false
     },
@@ -209,8 +247,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T23:26:52Z",
+   "updated": "2026-11-20T23:26:56Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44836854621",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T21:59:18Z",
-   "updated": "2026-11-20T21:59:21Z",
+   "updated": "2026-11-20T22:00:08Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44825077163",
    "event": "workflow_run",
    "title": "dashboard"
@@ -218,10 +267,10 @@
   {
    "target": null,
    "name": "Write next script",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T21:59:15Z",
-   "updated": "2026-11-20T21:59:19Z",
+   "updated": "2026-11-20T23:26:48Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44825071848",
    "event": "schedule",
    "title": "Write next script"
@@ -471,17 +520,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44726388455",
    "event": "push",
    "title": "Don't Miss Your Stop part 1: shots for the second pass (small talk tw…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-20T11:14:46Z",
-   "updated": "2026-11-20T11:17:34Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44726002349",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
