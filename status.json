@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:54:23+00:00",
+ "updated": "2026-11-20T13:05:38+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -205,8 +205,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T13:05:13Z",
+   "updated": "2026-11-20T13:05:17Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44741216316",
+   "event": "schedule",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T12:53:56Z",
-   "updated": "2026-11-20T12:54:03Z",
+   "updated": "2026-11-20T12:54:30Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44739619679",
    "event": "push",
    "title": "Voice check: accept shutters/shudders, Raise/Ray's, root/route as sou…"
@@ -463,17 +474,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44636266571",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T22:54:29Z",
-   "updated": "2026-11-19T22:54:58Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632926369",
-   "event": "push",
-   "title": "Don't Miss Your Stop part 1: shots (soft style), POV sheet, doors, ph…"
   }
  ],
  "render": {
