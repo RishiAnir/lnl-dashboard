@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:27:29+00:00",
+ "updated": "2026-11-20T23:31:18+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -247,8 +247,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T23:30:39Z",
+   "updated": "2026-11-20T23:30:43Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44837303390",
+   "event": "push",
+   "title": "Bulkway P3 mix: stop the zip-tie click loop from running forever"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T23:26:52Z",
-   "updated": "2026-11-20T23:26:56Z",
+   "updated": "2026-11-20T23:27:34Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44836854621",
    "event": "workflow_run",
    "title": "dashboard"
@@ -509,17 +520,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44739453698",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T11:17:33Z",
-   "updated": "2026-11-20T11:20:17Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44726388455",
-   "event": "push",
-   "title": "Don't Miss Your Stop part 1: shots for the second pass (small talk tw…"
   }
  ],
  "render": {
