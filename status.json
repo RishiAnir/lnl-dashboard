@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:04:43+00:00",
+ "updated": "2026-11-20T21:29:15+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -84,7 +84,7 @@
      ],
      "written": true,
      "rendered": false,
-     "voiced": false
+     "voiced": true
     },
     {
      "series": "bulkway",
@@ -209,8 +209,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T21:28:39Z",
+   "updated": "2026-11-20T21:28:43Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44820637060",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T21:03:57Z",
-   "updated": "2026-11-20T21:04:01Z",
+   "updated": "2026-11-20T21:04:51Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816954312",
    "event": "push",
    "title": "Train part 1: TikTok blocked the Buffer upload as spam, Rishi posts b…"
@@ -255,10 +266,10 @@
     "story": "Snowed In at Bulkway"
    },
    "name": "Voice bulkway part 3",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T21:00:24Z",
-   "updated": "2026-11-20T21:00:30Z",
+   "updated": "2026-11-20T21:28:33Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816408872",
    "event": "workflow_dispatch",
    "title": "Voice bulkway part 3"
@@ -471,17 +482,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44725053015",
    "event": "push",
    "title": "Don't Miss Your Stop part 1: new shots for the longer cut (the ordina…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T11:04:32Z",
-   "updated": "2026-11-20T11:05:06Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44724545388",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
