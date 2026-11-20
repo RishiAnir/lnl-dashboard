@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:28:25+00:00",
+ "updated": "2026-11-20T07:30:23+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -204,8 +204,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T07:29:56Z",
+   "updated": "2026-11-20T07:30:00Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44695390463",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Post next part",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-20T07:29:53Z",
+   "updated": "2026-11-20T07:30:22Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44695383576",
+   "event": "schedule",
+   "title": "Post next part"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T03:28:01Z",
-   "updated": "2026-11-20T03:28:05Z",
+   "updated": "2026-11-20T03:28:31Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44667906632",
    "event": "schedule",
    "title": "dashboard"
@@ -459,28 +481,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44624985262",
    "event": "push",
    "title": "Dashboard: refresh button, rebuild-now link, clearer timestamps, chec…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-19T22:03:41Z",
-   "updated": "2026-11-19T22:04:11Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44624916845",
-   "event": "push",
-   "title": "Dashboard: show which story and part each job is for; light up only t…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T21:50:22Z",
-   "updated": "2026-11-19T21:50:52Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44622762289",
-   "event": "workflow_dispatch",
-   "title": "dashboard"
   }
  ],
  "render": {
