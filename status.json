@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:20:12+00:00",
+ "updated": "2026-11-20T12:53:11+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -165,7 +165,7 @@
      ],
      "written": true,
      "rendered": false,
-     "voiced": false
+     "voiced": true
     },
     {
      "series": "nighttrain",
@@ -205,8 +205,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T12:52:43Z",
+   "updated": "2026-11-20T12:52:47Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44739453698",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T11:17:33Z",
-   "updated": "2026-11-20T11:19:50Z",
+   "updated": "2026-11-20T11:20:17Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44726388455",
    "event": "push",
    "title": "Don't Miss Your Stop part 1: shots for the second pass (small talk tw…"
@@ -236,10 +247,10 @@
   {
    "target": null,
    "name": "Voice every part missing a voice",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "failure",
    "started": "2026-11-20T11:14:43Z",
-   "updated": "2026-11-20T11:14:47Z",
+   "updated": "2026-11-20T12:52:40Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44725994769",
    "event": "push",
    "title": "Voice every part missing a voice"
@@ -461,17 +472,6 @@
    "started": "2026-11-19T22:51:02Z",
    "updated": "2026-11-19T22:51:18Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632413310",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-19T22:51:01Z",
-   "updated": "2026-11-19T22:51:03Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44632411757",
    "event": "workflow_run",
    "title": "dashboard"
   }
