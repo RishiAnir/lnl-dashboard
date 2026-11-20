@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:05:38+00:00",
+ "updated": "2026-11-20T13:08:12+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -205,8 +205,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T13:07:47Z",
+   "updated": "2026-11-20T13:07:51Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44741596540",
+   "event": "push",
+   "title": "Train part 1: smooth the pop on 'Ticket, please', accept 2.14 clock f…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-20T13:05:13Z",
-   "updated": "2026-11-20T13:05:17Z",
+   "updated": "2026-11-20T13:05:45Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44741216316",
    "event": "schedule",
    "title": "dashboard"
@@ -462,17 +473,6 @@
    "updated": "2026-11-19T23:18:05Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44636366486",
    "event": "workflow_dispatch",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T23:16:46Z",
-   "updated": "2026-11-19T23:17:16Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44636266571",
-   "event": "workflow_run",
    "title": "dashboard"
   }
  ],
