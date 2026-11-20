@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:41:01+00:00",
+ "updated": "2026-11-20T00:18:10+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -143,7 +143,33 @@
     {
      "series": "nighttrain",
      "part": 2,
-     "written": false,
+     "title": "The Last Car",
+     "summary": "The man in red reads rule four and walks into the last car despite June's pleas. The lights die; you keep your eyes shut and hear a ticket punch click in the dark. When the lights return, his seat is empty and his phone rings. You notice every newspaper is dated nineteen eighty seven. Then your own phone rings with Mom calling, and a voice whispers your name. Rule five tells you it isn't her. The train slows as the voice waits on the line.",
+     "end_card": {
+      "title": "PART 3",
+      "hook": "Whose handwriting is on the rules?"
+     },
+     "script": [
+      "The man in red is walking into the last car right now.",
+      "He holds up rule four and laughs out loud. \"Why else would they hide it?\"",
+      "June grabs your sleeve hard. \"Don't let him go. Please.\"",
+      "The red man shrugs at her. \"Back in one minute.\"",
+      "He shoves through the gangway door into the dark.",
+      "The fluorescent lights snap out all at once.",
+      "You squeeze your eyes shut tight like rule three demands.",
+      "In the blackness a ticket punch clicks right beside your ear.",
+      "The doors chime. The lights flicker back to green white.",
+      "His seat is empty but his phone keeps ringing on the cushion.",
+      "You pick up his newspaper and freeze at the date.",
+      "Every page in the car reads nineteen eighty seven.",
+      "Your own phone starts ringing in your pocket. No signal.",
+      "The screen glows with Mom calling in the dark.",
+      "You answer and a voice whispers your name softly.",
+      "Rule five flashes in your mind. It isn't her at all.",
+      "The voice breathes \"Come home sweetheart.\"",
+      "The train slows for a stop. Who is really on the line?"
+     ],
+     "written": true,
      "rendered": false,
      "voiced": false
     },
@@ -178,8 +204,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-20T00:17:45Z",
+   "updated": "2026-11-20T00:17:50Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44644701249",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-19T23:40:37Z",
-   "updated": "2026-11-19T23:40:41Z",
+   "updated": "2026-11-19T23:41:06Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44639647508",
    "event": "workflow_run",
    "title": "dashboard"
@@ -349,10 +386,10 @@
   {
    "target": null,
    "name": "Write next script",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-19T22:28:38Z",
-   "updated": "2026-11-19T23:40:36Z",
+   "updated": "2026-11-20T00:17:41Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44628969874",
    "event": "schedule",
    "title": "Write next script"
@@ -442,17 +479,6 @@
    "started": "2026-11-19T21:30:38Z",
    "updated": "2026-11-19T23:40:33Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44619475420",
-   "event": "workflow_dispatch",
-   "title": "write next brief"
-  },
-  {
-   "target": null,
-   "name": "write next brief",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-19T21:30:33Z",
-   "updated": "2026-11-19T22:23:40Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44619461188",
    "event": "workflow_dispatch",
    "title": "write next brief"
   }
