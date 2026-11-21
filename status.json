@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:25:47+00:00",
+ "updated": "2026-11-21T07:26:40+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -85,6 +85,9 @@
      "written": true,
      "rendered": true,
      "voiced": true,
+     "posted": "2026-11-21T07:25:57+00:00",
+     "video": "https://res.cloudinary.com/rbigcy03/video/upload/v1795245944/lnl-stories/bulkway__part3.mp4",
+     "post_note": null,
      "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795243637/lnl-stories/previews/bulkway__part3.mp4"
     },
     {
@@ -248,8 +251,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-21T07:26:03Z",
+   "updated": "2026-11-21T07:26:06Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44880231570",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-21T07:25:05Z",
-   "updated": "2026-11-21T07:25:09Z",
+   "updated": "2026-11-21T07:25:51Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44880157720",
    "event": "workflow_run",
    "title": "dashboard"
@@ -257,10 +271,10 @@
   {
    "target": null,
    "name": "Post next part",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-21T07:25:04Z",
-   "updated": "2026-11-21T07:25:08Z",
+   "updated": "2026-11-21T07:26:01Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44880154878",
    "event": "schedule",
    "title": "Post next part"
@@ -514,17 +528,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44815637552",
    "event": "push",
    "title": "Dashboard: don't redraw while a video is playing, and only when the s…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T18:54:15Z",
-   "updated": "2026-11-20T18:55:02Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44797130202",
-   "event": "push",
-   "title": "Train part 1 re-render: seated passengers, one opening shot"
   }
  ],
  "render": {
