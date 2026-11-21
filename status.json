@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:57:23+00:00",
+ "updated": "2026-11-21T23:59:38+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -294,8 +294,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-21T23:58:59Z",
+   "updated": "2026-11-21T23:59:03Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44964382816",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-21T22:56:40Z",
-   "updated": "2026-11-21T22:56:43Z",
+   "updated": "2026-11-21T22:57:28Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44959304263",
    "event": "workflow_run",
    "title": "dashboard"
@@ -373,10 +384,10 @@
     "story": "Don't Miss Your Stop"
    },
    "name": "Voice nighttrain part 2",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "failure",
    "started": "2026-11-21T22:05:11Z",
-   "updated": "2026-11-21T22:56:40Z",
+   "updated": "2026-11-21T23:58:54Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954869225",
    "event": "workflow_dispatch",
    "title": "Voice nighttrain part 2"
@@ -563,17 +574,6 @@
    "updated": "2026-11-21T03:16:33Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44860208807",
    "event": "schedule",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-21T03:08:16Z",
-   "updated": "2026-11-21T03:08:59Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44859540605",
-   "event": "workflow_run",
    "title": "dashboard"
   }
  ],
