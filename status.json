@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:46:07+00:00",
+ "updated": "2026-11-21T20:35:35+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -251,8 +251,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-21T20:34:53Z",
+   "updated": "2026-11-21T20:34:57Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44947030079",
+   "event": "schedule",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-21T12:45:29Z",
-   "updated": "2026-11-21T12:45:33Z",
+   "updated": "2026-11-21T12:46:13Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44905481744",
    "event": "schedule",
    "title": "dashboard"
@@ -517,17 +528,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816405643",
    "event": "push",
    "title": "Train part 1 to the poster (Rishi asked for Buffer)"
-  },
-  {
-   "target": null,
-   "name": "Post next part",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T21:00:22Z",
-   "updated": "2026-11-20T21:01:35Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816404737",
-   "event": "workflow_dispatch",
-   "title": "Post next part"
   }
  ],
  "render": {
