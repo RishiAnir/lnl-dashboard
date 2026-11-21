@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:16:29+00:00",
+ "updated": "2026-11-21T06:47:16+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -85,7 +85,7 @@
      "written": true,
      "rendered": true,
      "voiced": true,
-     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795217920/lnl-stories/previews/bulkway__part3.mp4"
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795243637/lnl-stories/previews/bulkway__part3.mp4"
     },
     {
      "series": "bulkway",
@@ -244,12 +244,27 @@
  ],
  "runs": [
   {
-   "target": null,
+   "target": {
+    "series": "bulkway",
+    "part": 3,
+    "story": "Snowed In at Bulkway"
+   },
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-21T06:46:37Z",
+   "updated": "2026-11-21T06:46:40Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44877144691",
+   "event": "push",
+   "title": "Render bulkway part 3"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-21T03:15:51Z",
-   "updated": "2026-11-21T03:15:56Z",
+   "updated": "2026-11-21T03:16:33Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44860208807",
    "event": "schedule",
    "title": "dashboard"
@@ -510,17 +525,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44792855306",
    "event": "push",
    "title": "Train part 1: everyone sitting reads as sitting (seat cushion, lap an…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T18:20:44Z",
-   "updated": "2026-11-20T18:21:38Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44791872879",
-   "event": "push",
-   "title": "Dashboard: show previews/ renders (parts Rishi posts himself) without…"
   }
  ],
  "render": {
