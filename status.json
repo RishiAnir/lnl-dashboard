@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T06:47:16+00:00",
+ "updated": "2026-11-21T07:25:47+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -244,16 +244,38 @@
  ],
  "runs": [
   {
+   "target": null,
+   "name": "dashboard",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-21T07:25:05Z",
+   "updated": "2026-11-21T07:25:09Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44880157720",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Post next part",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-21T07:25:04Z",
+   "updated": "2026-11-21T07:25:08Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44880154878",
+   "event": "schedule",
+   "title": "Post next part"
+  },
+  {
    "target": {
     "series": "bulkway",
     "part": 3,
     "story": "Snowed In at Bulkway"
    },
    "name": "dashboard",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-21T06:46:37Z",
-   "updated": "2026-11-21T06:46:40Z",
+   "updated": "2026-11-21T06:47:26Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44877144691",
    "event": "push",
    "title": "Render bulkway part 3"
@@ -503,28 +525,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44797130202",
    "event": "push",
    "title": "Train part 1 re-render: seated passengers, one opening shot"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T18:27:05Z",
-   "updated": "2026-11-20T18:27:46Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44792870103",
-   "event": "push",
-   "title": "Render status: re-rendering train part 1"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-20T18:26:59Z",
-   "updated": "2026-11-20T18:27:09Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44792855306",
-   "event": "push",
-   "title": "Train part 1: everyone sitting reads as sitting (seat cushion, lap an…"
   }
  ],
  "render": {
