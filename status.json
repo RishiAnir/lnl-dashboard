@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:08:54+00:00",
+ "updated": "2026-11-21T03:16:29+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -248,8 +248,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-21T03:15:51Z",
+   "updated": "2026-11-21T03:15:56Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44860208807",
+   "event": "schedule",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-21T03:08:16Z",
-   "updated": "2026-11-21T03:08:19Z",
+   "updated": "2026-11-21T03:08:59Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44859540605",
    "event": "workflow_run",
    "title": "dashboard"
@@ -510,17 +521,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44791872879",
    "event": "push",
    "title": "Dashboard: show previews/ renders (parts Rishi posts himself) without…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T13:23:28Z",
-   "updated": "2026-11-20T13:24:06Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44743889960",
-   "event": "push",
-   "title": "Train part 1 rendered: 3:19 cut, audio checks pass"
   }
  ],
  "render": {
