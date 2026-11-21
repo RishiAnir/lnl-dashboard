@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:12:38+00:00",
+ "updated": "2026-11-21T03:08:54+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -248,8 +248,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-21T03:08:16Z",
+   "updated": "2026-11-21T03:08:19Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44859540605",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-21T02:12:01Z",
-   "updated": "2026-11-21T02:12:04Z",
+   "updated": "2026-11-21T02:12:42Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44854540617",
    "event": "workflow_run",
    "title": "dashboard"
@@ -257,10 +268,10 @@
   {
    "target": null,
    "name": "Voice every part missing a voice",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "failure",
    "started": "2026-11-21T02:11:56Z",
-   "updated": "2026-11-21T02:11:59Z",
+   "updated": "2026-11-21T03:08:12Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44854533192",
    "event": "schedule",
    "title": "Voice every part missing a voice"
@@ -510,17 +521,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44743889960",
    "event": "push",
    "title": "Train part 1 rendered: 3:19 cut, audio checks pass"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T13:07:47Z",
-   "updated": "2026-11-20T13:08:17Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44741596540",
-   "event": "push",
-   "title": "Train part 1: smooth the pop on 'Ticket, please', accept 2.14 clock f…"
   }
  ],
  "render": {
