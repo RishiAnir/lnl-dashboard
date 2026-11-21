@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:41:28+00:00",
+ "updated": "2026-11-21T22:05:54+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -178,9 +178,52 @@
     {
      "series": "nighttrain",
      "part": 2,
-     "written": false,
+     "title": "The Last Car",
+     "summary": "The man in red is on the front page of a newspaper dated November 3, 1987, and so is every paper in the car. June won't say where he went; her eyes go to the last car, where a single handle swings. His phone starts ringing in there, and June holds you down: never the last car. The lights go out; eyes shut; the conductor's punch clicks closer until it's beside your ear and something waits for you to look. You don't. The doors chime, and for the first time every passenger has turned a page. Then your phone rings with no signal: Mom. June begs you not to. You answer, and in your mother's voice it says your name: \"I'm waiting at the next stop. Get off the train.\"",
+     "end_card": {
+      "title": "PART 3",
+      "hook": "Whose handwriting is it?"
+     },
+     "script": [
+      "The man in red smiles up at you from the front page.",
+      "You pick it up. The paper is soft and yellow, like it's been lying there for years.",
+      "The date under the headline: November third, nineteen eighty seven.",
+      "You look down the car. Every newspaper has the same date.",
+      "June doesn't look up from her knitting. \"Put it down, sweetheart.\"",
+      "\"Where did he go?\" you ask.",
+      "June's needles stop. Her eyes go to the door at the end of the car.",
+      "Through its little window, the last car is dark. One handle swings back and forth.",
+      "\"He's not in there,\" June says. \"Not anymore.\"",
+      "Then, from the last car, a phone starts ringing.",
+      "His ringtone. It rings and rings. Nobody turns a page.",
+      "Without meaning to, you start to stand.",
+      "June's hand clamps onto your knee. \"Never the last car. Never.\"",
+      "The ringing stops.",
+      "Above you, the lights flicker.",
+      "June squeezes your hand. \"Eyes shut, sweetheart. Now.\"",
+      "The lights go out. You squeeze your eyes shut.",
+      "In the dark, only the clack of the tracks.",
+      "Then, from the end of the car: click.",
+      "Click. Closer.",
+      "Click. Right beside your ear.",
+      "You can feel someone bending over you, waiting for you to look.",
+      "You don't look.",
+      "The doors chime.",
+      "The lights are back. June lets out a long breath. \"Good. That was good.\"",
+      "Then you notice the passengers.",
+      "For the first time, every one of them has turned a page.",
+      "In your pocket, your phone buzzes.",
+      "Still no signal. But someone is calling.",
+      "It's your mom.",
+      "June goes very still. \"Don't, sweetheart.\"",
+      "But it's your mom. Your thumb is already on the green button.",
+      "\"Mom?\"",
+      "Nothing. Then, very softly, in her voice, it says your name.",
+      "\"I'm waiting at the next stop. Get off the train.\""
+     ],
+     "written": true,
      "rendered": false,
-     "voiced": true
+     "voiced": false
     },
     {
      "series": "nighttrain",
@@ -251,8 +294,148 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-21T22:05:15Z",
+   "updated": "2026-11-21T22:05:19Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954877907",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-21T22:05:15Z",
+   "updated": "2026-11-21T22:05:16Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954877299",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-21T22:05:14Z",
+   "updated": "2026-11-21T22:05:16Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954875011",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-21T22:05:13Z",
+   "updated": "2026-11-21T22:05:21Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954873145",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": {
+    "series": "nighttrain",
+    "part": 2,
+    "story": "Don't Miss Your Stop"
+   },
+   "name": "Voice nighttrain part 2",
+   "status": "pending",
+   "conclusion": null,
+   "started": "2026-11-21T22:05:11Z",
+   "updated": "2026-11-21T22:05:13Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954869225",
+   "event": "workflow_dispatch",
+   "title": "Voice nighttrain part 2"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-21T22:05:07Z",
+   "updated": "2026-11-21T22:05:14Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954864210",
+   "event": "push",
+   "title": "Train part 2: the newspapers carry June's ticket date, November 3, 1987"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-21T22:05:07Z",
+   "updated": "2026-11-21T22:05:13Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954864197",
+   "event": "push",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-21T22:04:47Z",
+   "updated": "2026-11-21T22:05:11Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954831236",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-21T22:04:43Z",
+   "updated": "2026-11-21T22:04:54Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954825700",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-21T22:04:40Z",
+   "updated": "2026-11-21T22:05:07Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954822131",
+   "event": "push",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-21T22:04:40Z",
+   "updated": "2026-11-21T22:04:46Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954822076",
+   "event": "push",
+   "title": "Don't Miss Your Stop part 2 rewritten to follow the new part 1: the 1…"
+  },
+  {
+   "target": {
+    "series": "nighttrain",
+    "part": 2,
+    "story": "Don't Miss Your Stop"
+   },
+   "name": "Voice nighttrain part 2",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-21T22:04:40Z",
+   "updated": "2026-11-21T22:05:10Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954821486",
+   "event": "workflow_dispatch",
+   "title": "Voice nighttrain part 2"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-21T20:40:49Z",
-   "updated": "2026-11-21T20:40:52Z",
+   "updated": "2026-11-21T20:41:33Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44947550196",
    "event": "workflow_run",
    "title": "dashboard"
@@ -392,138 +575,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44838224403",
    "event": "push",
    "title": "Bulkway part 3 subtitles"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-20T23:37:57Z",
-   "updated": "2026-11-20T23:38:05Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44838215713",
-   "event": "push",
-   "title": "Bulkway part 3 rendered (preview); accept bean/beam in the mix check"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T23:30:39Z",
-   "updated": "2026-11-20T23:31:24Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44837303390",
-   "event": "push",
-   "title": "Bulkway P3 mix: stop the zip-tie click loop from running forever"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T23:26:52Z",
-   "updated": "2026-11-20T23:27:34Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44836854621",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T21:59:18Z",
-   "updated": "2026-11-20T22:00:08Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44825077163",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Write next script",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T21:59:15Z",
-   "updated": "2026-11-20T23:26:48Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44825071848",
-   "event": "schedule",
-   "title": "Write next script"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T21:51:35Z",
-   "updated": "2026-11-20T21:52:24Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44823996008",
-   "event": "schedule",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T21:35:07Z",
-   "updated": "2026-11-20T21:35:48Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44821623832",
-   "event": "push",
-   "title": "Bulkway part 3: shots (cold open fall, the catch, Ray hood down and z…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T21:28:39Z",
-   "updated": "2026-11-20T21:29:22Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44820637060",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T21:03:57Z",
-   "updated": "2026-11-20T21:04:51Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816954312",
-   "event": "push",
-   "title": "Train part 1: TikTok blocked the Buffer upload as spam, Rishi posts b…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T21:01:39Z",
-   "updated": "2026-11-20T21:02:24Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816611894",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T21:00:27Z",
-   "updated": "2026-11-20T21:01:14Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816417360",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-20T21:00:26Z",
-   "updated": "2026-11-20T21:00:29Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816414261",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
