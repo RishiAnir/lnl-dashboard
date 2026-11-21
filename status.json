@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:35:35+00:00",
+ "updated": "2026-11-21T20:41:28+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -251,8 +251,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-21T20:40:49Z",
+   "updated": "2026-11-21T20:40:52Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44947550196",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Write next script",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-21T20:40:43Z",
+   "updated": "2026-11-21T20:40:47Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44947541629",
+   "event": "schedule",
+   "title": "Write next script"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-21T20:34:53Z",
-   "updated": "2026-11-21T20:34:57Z",
+   "updated": "2026-11-21T20:35:41Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44947030079",
    "event": "schedule",
    "title": "dashboard"
@@ -502,32 +524,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816414261",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": {
-    "series": "bulkway",
-    "part": 3,
-    "story": "Snowed In at Bulkway"
-   },
-   "name": "Voice bulkway part 3",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-20T21:00:24Z",
-   "updated": "2026-11-20T21:28:33Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816408872",
-   "event": "workflow_dispatch",
-   "title": "Voice bulkway part 3"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-20T21:00:22Z",
-   "updated": "2026-11-20T21:00:28Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44816405643",
-   "event": "push",
-   "title": "Train part 1 to the poster (Rishi asked for Buffer)"
   }
  ],
  "render": {
