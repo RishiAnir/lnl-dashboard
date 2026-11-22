@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:45:54+00:00",
+ "updated": "2026-11-22T20:52:56+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -295,8 +295,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-22T20:51:38Z",
+   "updated": "2026-11-22T20:51:42Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45068805235",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Write next script",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-22T20:51:35Z",
+   "updated": "2026-11-22T20:51:38Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45068800645",
+   "event": "schedule",
+   "title": "Write next script"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-22T20:45:12Z",
-   "updated": "2026-11-22T20:45:16Z",
+   "updated": "2026-11-22T20:46:03Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45068204856",
    "event": "schedule",
    "title": "dashboard"
@@ -546,28 +568,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44955462425",
    "event": "push",
    "title": "Train part 2 shots and mix: the 1987 front page, every paper with the…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-21T22:11:03Z",
-   "updated": "2026-11-21T22:11:45Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44955403225",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-21T22:05:15Z",
-   "updated": "2026-11-21T22:06:01Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954877907",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
