@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:59:38+00:00",
+ "updated": "2026-11-22T00:00:51+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -187,7 +187,7 @@
      "script": [
       "The man in red smiles up at you from the front page.",
       "You pick it up. The paper is soft and yellow, like it's been lying there for years.",
-      "The date under the headline: November third, nineteen eighty seven.",
+      "The date under the headline is nineteen eighty seven. November third.",
       "You look down the car. Every newspaper has the same date.",
       "June doesn't look up from her knitting. \"Put it down, sweetheart.\"",
       "\"Where did he go?\" you ask.",
@@ -294,8 +294,67 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-22T00:00:05Z",
+   "updated": "2026-11-22T00:00:11Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44964462309",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-22T00:00:03Z",
+   "updated": "2026-11-22T00:00:06Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44964459585",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-21T23:59:59Z",
+   "updated": "2026-11-22T00:00:08Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44964453220",
+   "event": "push",
+   "title": "Train part 2 line 3: end on 'November third' (Chatterbox kept cutting…"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-21T23:59:59Z",
+   "updated": "2026-11-22T00:00:03Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44964453214",
+   "event": "push",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": {
+    "series": "nighttrain",
+    "part": 2,
+    "story": "Don't Miss Your Stop"
+   },
+   "name": "Voice nighttrain part 2",
+   "status": "pending",
+   "conclusion": null,
+   "started": "2026-11-21T23:59:58Z",
+   "updated": "2026-11-22T00:00:00Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44964452618",
+   "event": "workflow_dispatch",
+   "title": "Voice nighttrain part 2"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-21T23:58:59Z",
-   "updated": "2026-11-21T23:59:03Z",
+   "updated": "2026-11-21T23:59:44Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44964382816",
    "event": "workflow_run",
    "title": "dashboard"
@@ -514,65 +573,6 @@
    "started": "2026-11-21T12:45:29Z",
    "updated": "2026-11-21T12:46:13Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44905481744",
-   "event": "schedule",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-21T07:26:03Z",
-   "updated": "2026-11-21T07:26:45Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44880231570",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-21T07:25:05Z",
-   "updated": "2026-11-21T07:25:51Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44880157720",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Post next part",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-21T07:25:04Z",
-   "updated": "2026-11-21T07:26:01Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44880154878",
-   "event": "schedule",
-   "title": "Post next part"
-  },
-  {
-   "target": {
-    "series": "bulkway",
-    "part": 3,
-    "story": "Snowed In at Bulkway"
-   },
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-21T06:46:37Z",
-   "updated": "2026-11-21T06:47:26Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44877144691",
-   "event": "push",
-   "title": "Render bulkway part 3"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-21T03:15:51Z",
-   "updated": "2026-11-21T03:16:33Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44860208807",
    "event": "schedule",
    "title": "dashboard"
   }
