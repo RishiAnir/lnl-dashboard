@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:19:24+00:00",
+ "updated": "2026-11-22T07:06:17+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -295,8 +295,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-22T07:05:36Z",
+   "updated": "2026-11-22T07:05:39Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44996642529",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Post next part",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-22T07:05:31Z",
+   "updated": "2026-11-22T07:05:35Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44996636875",
+   "event": "schedule",
+   "title": "Post next part"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-22T02:18:33Z",
-   "updated": "2026-11-22T02:18:37Z",
+   "updated": "2026-11-22T02:19:30Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44975476715",
    "event": "schedule",
    "title": "dashboard"
@@ -546,32 +568,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954873145",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": {
-    "series": "nighttrain",
-    "part": 2,
-    "story": "Don't Miss Your Stop"
-   },
-   "name": "Voice nighttrain part 2",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-21T22:05:11Z",
-   "updated": "2026-11-21T23:58:54Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954869225",
-   "event": "workflow_dispatch",
-   "title": "Voice nighttrain part 2"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-21T22:05:07Z",
-   "updated": "2026-11-21T22:05:14Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954864210",
-   "event": "push",
-   "title": "Train part 2: the newspapers carry June's ticket date, November 3, 1987"
   }
  ],
  "render": {
