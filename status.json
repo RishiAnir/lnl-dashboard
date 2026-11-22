@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:41:02+00:00",
+ "updated": "2026-11-22T20:45:54+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -295,8 +295,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-22T20:45:12Z",
+   "updated": "2026-11-22T20:45:16Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45068204856",
+   "event": "schedule",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-22T12:40:08Z",
-   "updated": "2026-11-22T12:40:12Z",
+   "updated": "2026-11-22T12:41:08Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45023472031",
    "event": "schedule",
    "title": "dashboard"
@@ -555,17 +566,6 @@
    "started": "2026-11-21T22:05:15Z",
    "updated": "2026-11-21T22:06:01Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954877907",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-21T22:05:15Z",
-   "updated": "2026-11-21T22:05:16Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954877299",
    "event": "workflow_run",
    "title": "dashboard"
   }
