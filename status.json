@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:53:23+00:00",
+ "updated": "2026-11-22T01:56:20+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -294,8 +294,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-22T01:55:43Z",
+   "updated": "2026-11-22T01:55:47Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973704605",
+   "event": "push",
+   "title": "Train part 2 audio check: 3rd = third; ignore Whisper doubling 'Nothi…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-22T01:52:41Z",
-   "updated": "2026-11-22T01:52:47Z",
+   "updated": "2026-11-22T01:53:29Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973482237",
    "event": "workflow_run",
    "title": "dashboard"
@@ -558,17 +569,6 @@
    "started": "2026-11-21T22:04:47Z",
    "updated": "2026-11-21T22:05:11Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954831236",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-21T22:04:43Z",
-   "updated": "2026-11-21T22:04:54Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954825700",
    "event": "workflow_run",
    "title": "dashboard"
   }
