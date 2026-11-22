@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:17:52+00:00",
+ "updated": "2026-11-22T01:50:01+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -294,8 +294,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-22T01:49:17Z",
+   "updated": "2026-11-22T01:49:21Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973228518",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-22T01:17:09Z",
-   "updated": "2026-11-22T01:17:16Z",
+   "updated": "2026-11-22T01:18:00Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44970728882",
    "event": "workflow_run",
    "title": "dashboard"
@@ -314,10 +325,10 @@
   {
    "target": null,
    "name": "Voice every part missing a voice",
-   "status": "pending",
+   "status": "in_progress",
    "conclusion": null,
    "started": "2026-11-22T01:17:04Z",
-   "updated": "2026-11-22T01:17:06Z",
+   "updated": "2026-11-22T01:49:17Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44970722468",
    "event": "schedule",
    "title": "Voice every part missing a voice"
@@ -358,10 +369,10 @@
   {
    "target": null,
    "name": "Voice every part missing a voice",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "failure",
    "started": "2026-11-21T23:59:59Z",
-   "updated": "2026-11-22T00:00:03Z",
+   "updated": "2026-11-22T01:49:14Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44964453214",
    "event": "push",
    "title": "Voice every part missing a voice"
@@ -564,17 +575,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954821486",
    "event": "workflow_dispatch",
    "title": "Voice nighttrain part 2"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-21T20:40:49Z",
-   "updated": "2026-11-21T20:41:33Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44947550196",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
