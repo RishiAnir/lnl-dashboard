@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:50:01+00:00",
+ "updated": "2026-11-22T01:53:23+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -294,8 +294,41 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-22T01:52:41Z",
+   "updated": "2026-11-22T01:52:47Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973482237",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-22T01:52:35Z",
+   "updated": "2026-11-22T01:52:44Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973475502",
+   "event": "push",
+   "title": "Train part 2: chunk timing and events from the build"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-22T01:52:19Z",
+   "updated": "2026-11-22T01:52:38Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973455094",
+   "event": "push",
+   "title": "Voice check accepts years and ordinals written as digits (1987, 3rd);…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-22T01:49:17Z",
-   "updated": "2026-11-22T01:49:21Z",
+   "updated": "2026-11-22T01:50:07Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973228518",
    "event": "workflow_run",
    "title": "dashboard"
@@ -325,10 +358,10 @@
   {
    "target": null,
    "name": "Voice every part missing a voice",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "cancelled",
    "started": "2026-11-22T01:17:04Z",
-   "updated": "2026-11-22T01:49:17Z",
+   "updated": "2026-11-22T01:52:37Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44970722468",
    "event": "schedule",
    "title": "Voice every part missing a voice"
@@ -538,43 +571,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954825700",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Voice every part missing a voice",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-21T22:04:40Z",
-   "updated": "2026-11-21T22:05:07Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954822131",
-   "event": "push",
-   "title": "Voice every part missing a voice"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-21T22:04:40Z",
-   "updated": "2026-11-21T22:04:46Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954822076",
-   "event": "push",
-   "title": "Don't Miss Your Stop part 2 rewritten to follow the new part 1: the 1…"
-  },
-  {
-   "target": {
-    "series": "nighttrain",
-    "part": 2,
-    "story": "Don't Miss Your Stop"
-   },
-   "name": "Voice nighttrain part 2",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-21T22:04:40Z",
-   "updated": "2026-11-21T22:56:36Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954821486",
-   "event": "workflow_dispatch",
-   "title": "Voice nighttrain part 2"
   }
  ],
  "render": {
