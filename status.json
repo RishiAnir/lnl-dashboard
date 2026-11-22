@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:52:56+00:00",
+ "updated": "2026-11-22T22:04:55+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -93,7 +93,44 @@
     {
      "series": "bulkway",
      "part": 4,
-     "written": false,
+     "title": "The Truck",
+     "summary": "The bay door is forced up an inch. Ray warns the truck crew has found them. The team barricades the dock with three pallets of water using the forklift. Ray reveals he heard the crew planning the robbery before the storm: a plow truck dug down to the dock while the roads were closed. Midway, the keypad by the bay door beeps from outside — someone is entering Dana's alarm code. The page with that code is missing from Ray's notebook, though he swears he never removed it. The door shudders again, pallets groan and begin to slide as the intruders push through. The crew faces a full breach.",
+     "end_card": {
+      "title": "PART 5",
+      "hook": "Can they turn the plow truck's own chain against the intruders?"
+     },
+     "script": [
+      "The bay door screams upward an inch. Metal shrieks.",
+      "Ray's eyes lock on yours. They found us, he mouths.",
+      "Dana shoves you toward the forklift. \"Move the water pallets. Now.\"",
+      "Marcus jumps into the cab. The engine coughs, catches, roars.",
+      "You stack three pallets against the door. Each slab freezing heavy.",
+      "Headlights pulse through the gap. Four silhouettes wait in the dark.",
+      "Ray nods at the beam. \"They dug down while the storm buried us.\"",
+      "\"Heard them in the lot before the snow,\" Ray says. \"A plow truck.\"",
+      "\"Plan to empty the warehouse while the roads are closed.\"",
+      "Dana's radio crackles. \"Marcus, hold the line. I'm checking the cameras.\"",
+      "The monitor flickers. Camera six still loops the empty nest.",
+      "Then the keypad by the bay door beeps. Once. Twice. Three times.",
+      "Someone is entering the code from outside.",
+      "Dana freezes. \"My alarm code. The page is missing from Ray's notebook.\"",
+      "Ray swears he never took it out. His voice raw. \"I didn't.\"",
+      "The beeping stops. A green light flashes on the panel.",
+      "The bay door shudders. The pallets groan. Ice cracks under the weight.",
+      "Marcus revs the forklift. He rams the barricade tighter. \"Hold!\"",
+      "The door rises another foot. Cold wind slams into your face.",
+      "A voice booms from the gap. \"Open up. We know you're in there.\"",
+      "Ray lunges forward, zip ties straining. \"Crawlspace. Behind the racking.\"",
+      "Dana grabs his shoulder. \"Not yet. We need the roof hatch key.\"",
+      "The wall clock clicks three in the morning. Generator dead for hours.",
+      "Your flashlight beam catches a chain hanging from the plow truck's hitch.",
+      "Marcus sees it too. \"If we hook that chain to the forklift...\"",
+      "The pallets start sliding. The barricade gives way inch by inch.",
+      "Ray stares at the widening gap. \"They're coming through.\"",
+      "Dana's hand finds yours. \"Whatever happens, we stay together.\"",
+      "The door crashes fully open. Headlights blind you."
+     ],
+     "written": true,
      "rendered": false,
      "voiced": false
     },
@@ -295,8 +332,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-22T22:04:11Z",
+   "updated": "2026-11-22T22:04:15Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45075591532",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-22T20:51:38Z",
-   "updated": "2026-11-22T20:51:42Z",
+   "updated": "2026-11-22T20:53:03Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45068805235",
    "event": "workflow_run",
    "title": "dashboard"
@@ -304,10 +352,10 @@
   {
    "target": null,
    "name": "Write next script",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-22T20:51:35Z",
-   "updated": "2026-11-22T20:51:38Z",
+   "updated": "2026-11-22T22:04:07Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45068800645",
    "event": "schedule",
    "title": "Write next script"
@@ -557,17 +605,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44959304263",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-21T22:11:41Z",
-   "updated": "2026-11-21T22:12:28Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44955462425",
-   "event": "push",
-   "title": "Train part 2 shots and mix: the 1987 front page, every paper with the…"
   }
  ],
  "render": {
