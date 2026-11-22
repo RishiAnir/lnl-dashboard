@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:56:20+00:00",
+ "updated": "2026-11-22T02:15:40+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -222,8 +222,9 @@
       "\"I'm waiting at the next stop. Get off the train.\""
      ],
      "written": true,
-     "rendered": false,
-     "voiced": false
+     "rendered": true,
+     "voiced": true,
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795313741/lnl-stories/previews/nighttrain__part2.mp4"
     },
     {
      "series": "nighttrain",
@@ -294,8 +295,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-22T02:14:59Z",
+   "updated": "2026-11-22T02:15:02Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44975190648",
+   "event": "push",
+   "title": "Train part 2 rendered: The Last Car (2:29)"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-22T01:55:43Z",
-   "updated": "2026-11-22T01:55:47Z",
+   "updated": "2026-11-22T01:56:28Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973704605",
    "event": "push",
    "title": "Train part 2 audio check: 3rd = third; ignore Whisper doubling 'Nothi…"
@@ -560,22 +572,10 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954864197",
    "event": "push",
    "title": "Voice every part missing a voice"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-21T22:04:47Z",
-   "updated": "2026-11-21T22:05:11Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44954831236",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
-  "state": "idle",
-  "note": "Bulkway part 3 rendered"
+  "state": "idle"
  },
  "schedule": [
   {
