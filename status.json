@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:20:45+00:00",
+ "updated": "2026-11-23T16:32:13+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -336,8 +336,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-23T16:31:27Z",
+   "updated": "2026-11-23T16:31:35Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45217468934",
+   "event": "push",
+   "title": "Train part 2: events for the new cut"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-23T16:31:17Z",
+   "updated": "2026-11-23T16:31:32Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45217434556",
+   "event": "push",
+   "title": "Train part 2: audio check soundalikes; louder first punches"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-23T16:20:00Z",
-   "updated": "2026-11-23T16:20:07Z",
+   "updated": "2026-11-23T16:20:51Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45215295768",
    "event": "push",
    "title": "Train part 2: bigger train in the opening shot, warm windows, stronge…"
@@ -591,28 +613,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45068800645",
    "event": "schedule",
    "title": "Write next script"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-22T20:45:12Z",
-   "updated": "2026-11-22T20:46:03Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45068204856",
-   "event": "schedule",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-22T12:40:08Z",
-   "updated": "2026-11-22T12:41:08Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45023472031",
-   "event": "schedule",
-   "title": "dashboard"
   }
  ],
  "render": {
