@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:06:02+00:00",
+ "updated": "2026-11-23T22:45:48+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -340,8 +340,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-23T22:45:04Z",
+   "updated": "2026-11-23T22:45:08Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45282609192",
+   "event": "push",
+   "title": "Train part 2: drop the glove and smile behind shut eyes; a shadow lea…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-23T19:05:01Z",
-   "updated": "2026-11-23T19:05:05Z",
+   "updated": "2026-11-23T19:06:08Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45245149712",
    "event": "workflow_run",
    "title": "dashboard"
@@ -606,17 +617,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45134261695",
    "event": "schedule",
    "title": "Post next part"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-23T04:01:22Z",
-   "updated": "2026-11-23T04:02:12Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45109331073",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
