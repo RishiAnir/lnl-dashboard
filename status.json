@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T04:02:07+00:00",
+ "updated": "2026-11-23T07:53:21+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -332,8 +332,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-23T07:52:35Z",
+   "updated": "2026-11-23T07:52:39Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45134269360",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Post next part",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-23T07:52:32Z",
+   "updated": "2026-11-23T07:52:36Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45134261695",
+   "event": "schedule",
+   "title": "Post next part"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-23T04:01:22Z",
-   "updated": "2026-11-23T04:01:26Z",
+   "updated": "2026-11-23T04:02:12Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45109331073",
    "event": "workflow_run",
    "title": "dashboard"
@@ -579,28 +601,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44964462309",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-22T00:00:03Z",
-   "updated": "2026-11-22T00:00:06Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44964459585",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-21T23:59:59Z",
-   "updated": "2026-11-22T00:00:08Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44964453220",
-   "event": "push",
-   "title": "Train part 2 line 3: end on 'November third' (Chatterbox kept cutting…"
   }
  ],
  "render": {
