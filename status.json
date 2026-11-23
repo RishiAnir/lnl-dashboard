@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:32:13+00:00",
+ "updated": "2026-11-23T16:58:54+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -265,7 +265,7 @@
      "written": true,
      "rendered": true,
      "voiced": true,
-     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795313741/lnl-stories/previews/nighttrain__part2.mp4"
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795453136/lnl-stories/previews/nighttrain__part2.mp4"
     },
     {
      "series": "nighttrain",
@@ -336,8 +336,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-23T16:57:57Z",
+   "updated": "2026-11-23T16:58:02Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45222376578",
+   "event": "push",
+   "title": "Train part 2 revised cut (2:48): queued for tonight's post"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-23T16:31:27Z",
-   "updated": "2026-11-23T16:31:35Z",
+   "updated": "2026-11-23T16:32:23Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45217468934",
    "event": "push",
    "title": "Train part 2: events for the new cut"
@@ -602,17 +613,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45068805235",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Write next script",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-22T20:51:35Z",
-   "updated": "2026-11-22T22:04:07Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45068800645",
-   "event": "schedule",
-   "title": "Write next script"
   }
  ],
  "render": {
