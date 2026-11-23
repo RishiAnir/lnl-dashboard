@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:58:54+00:00",
+ "updated": "2026-11-23T17:50:21+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -336,8 +336,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-23T17:49:34Z",
+   "updated": "2026-11-23T17:49:38Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45231807344",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-23T16:57:57Z",
-   "updated": "2026-11-23T16:58:02Z",
+   "updated": "2026-11-23T16:59:06Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45222376578",
    "event": "push",
    "title": "Train part 2 revised cut (2:48): queued for tonight's post"
@@ -393,10 +404,10 @@
     "story": "Don't Miss Your Stop"
    },
    "name": "Write nighttrain part 3",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "cancelled",
    "started": "2026-11-23T16:19:06Z",
-   "updated": "2026-11-23T16:19:11Z",
+   "updated": "2026-11-23T17:49:26Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45215128579",
    "event": "workflow_dispatch",
    "title": "Write nighttrain part 3"
@@ -600,17 +611,6 @@
    "started": "2026-11-22T22:04:11Z",
    "updated": "2026-11-22T22:05:01Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45075591532",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-22T20:51:38Z",
-   "updated": "2026-11-22T20:53:03Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45068805235",
    "event": "workflow_run",
    "title": "dashboard"
   }
