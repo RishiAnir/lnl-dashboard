@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:59:14+00:00",
+ "updated": "2026-11-23T16:05:54+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -219,9 +219,10 @@
      "summary": "The man in red is on the front page of a newspaper dated November 3, 1987, and so is every paper in the car. June won't say where he went; her eyes go to the last car, where a single handle swings. His phone starts ringing in there, and June holds you down: never the last car. The lights go out; eyes shut; the conductor's punch clicks closer until it's beside your ear and something waits for you to look. You don't. The doors chime, and for the first time every passenger has turned a page. Then your phone rings with no signal: Mom. June begs you not to. You answer, and in your mother's voice it says your name: \"I'm waiting at the next stop. Get off the train.\"",
      "end_card": {
       "title": "PART 3",
-      "hook": "Whose handwriting is it?"
+      "hook": "Is it really Mom?"
      },
      "script": [
+      "You woke up on a night train with a list of rules. One passenger broke a rule, and now he's gone.",
       "The man in red smiles up at you from the front page.",
       "You pick it up. The paper is soft and yellow, like it's been lying there for years.",
       "The date under the headline is nineteen eighty seven. November third.",
@@ -247,6 +248,9 @@
       "You don't look.",
       "The doors chime.",
       "The lights are back. June lets out a long breath. \"Good. That was good.\"",
+      "Your hands are shaking. \"June, what was that?\" you whisper.",
+      "She picks her knitting back up. \"The conductor. In the dark, he looks for anyone with their eyes open.\"",
+      "\"And if I had looked?\" June doesn't answer.",
       "Then you notice the passengers.",
       "For the first time, every one of them has turned a page.",
       "In your pocket, your phone buzzes.",
@@ -332,8 +336,67 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-23T16:05:00Z",
+   "updated": "2026-11-23T16:05:05Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45212423863",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-23T16:04:58Z",
+   "updated": "2026-11-23T16:05:01Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45212417606",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-23T16:04:54Z",
+   "updated": "2026-11-23T16:04:58Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45212406335",
+   "event": "push",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-23T16:04:54Z",
+   "updated": "2026-11-23T16:05:02Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45212406254",
+   "event": "push",
+   "title": "Train part 2 revision: recap line up front, you ask June what that wa…"
+  },
+  {
+   "target": {
+    "series": "nighttrain",
+    "part": 2,
+    "story": "Don't Miss Your Stop"
+   },
+   "name": "Voice nighttrain part 2",
+   "status": "pending",
+   "conclusion": null,
+   "started": "2026-11-23T16:04:53Z",
+   "updated": "2026-11-23T16:04:57Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45212405260",
+   "event": "workflow_dispatch",
+   "title": "Voice nighttrain part 2"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-23T14:58:28Z",
-   "updated": "2026-11-23T14:58:32Z",
+   "updated": "2026-11-23T14:59:22Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45199979310",
    "event": "push",
    "title": "Post through Buffer reminders (notification) instead of automatic: Ti…"
@@ -546,61 +609,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973704605",
    "event": "push",
    "title": "Train part 2 audio check: 3rd = third; ignore Whisper doubling 'Nothi…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-22T01:52:41Z",
-   "updated": "2026-11-22T01:53:29Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973482237",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-22T01:52:35Z",
-   "updated": "2026-11-22T01:52:44Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973475502",
-   "event": "push",
-   "title": "Train part 2: chunk timing and events from the build"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-22T01:52:19Z",
-   "updated": "2026-11-22T01:52:38Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973455094",
-   "event": "push",
-   "title": "Voice check accepts years and ordinals written as digits (1987, 3rd);…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-22T01:49:17Z",
-   "updated": "2026-11-22T01:50:07Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44973228518",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-22T01:17:09Z",
-   "updated": "2026-11-22T01:18:00Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/44970728882",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
