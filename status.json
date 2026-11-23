@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:51:36+00:00",
+ "updated": "2026-11-23T19:06:02+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -340,8 +340,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-23T19:05:01Z",
+   "updated": "2026-11-23T19:05:05Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45245149712",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-23T17:50:45Z",
-   "updated": "2026-11-23T17:50:55Z",
+   "updated": "2026-11-23T17:51:41Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45232018376",
    "event": "workflow_run",
    "title": "dashboard"
@@ -360,10 +371,10 @@
   {
    "target": null,
    "name": "Voice every part missing a voice",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "failure",
    "started": "2026-11-23T17:50:40Z",
-   "updated": "2026-11-23T17:50:44Z",
+   "updated": "2026-11-23T19:04:57Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45232004030",
    "event": "push",
    "title": "Voice every part missing a voice"
@@ -605,17 +616,6 @@
    "updated": "2026-11-23T04:02:12Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45109331073",
    "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-23T02:53:07Z",
-   "updated": "2026-11-23T02:53:55Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45102716620",
-   "event": "schedule",
    "title": "dashboard"
   }
  ],
