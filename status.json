@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:45:48+00:00",
+ "updated": "2026-11-23T23:08:58+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -265,7 +265,7 @@
      "written": true,
      "rendered": true,
      "voiced": true,
-     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795453136/lnl-stories/previews/nighttrain__part2.mp4"
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795475340/lnl-stories/previews/nighttrain__part2.mp4"
     },
     {
      "series": "nighttrain",
@@ -340,8 +340,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-23T23:08:09Z",
+   "updated": "2026-11-23T23:08:13Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45286109620",
+   "event": "push",
+   "title": "Train part 2: final cut without the glove and smile"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-23T22:45:04Z",
-   "updated": "2026-11-23T22:45:08Z",
+   "updated": "2026-11-23T22:45:56Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45282609192",
    "event": "push",
    "title": "Train part 2: drop the glove and smile behind shut eyes; a shadow lea…"
@@ -606,17 +617,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45134269360",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Post next part",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-23T07:52:32Z",
-   "updated": "2026-11-23T07:53:23Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45134261695",
-   "event": "schedule",
-   "title": "Post next part"
   }
  ],
  "render": {
