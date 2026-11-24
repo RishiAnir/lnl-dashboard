@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:31:05+00:00",
+ "updated": "2026-11-24T04:08:42+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -319,7 +319,7 @@
      "written": true,
      "rendered": true,
      "voiced": true,
-     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795489045/lnl-stories/previews/nighttrain__part3.mp4"
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795493326/lnl-stories/previews/nighttrain__part3.mp4"
     },
     {
      "series": "nighttrain",
@@ -338,8 +338,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T04:08:05Z",
+   "updated": "2026-11-24T04:08:09Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45324246034",
+   "event": "push",
+   "title": "Train part 3 final cut: hook line, call still going from Part 2, 'You…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T03:30:30Z",
-   "updated": "2026-11-24T03:30:38Z",
+   "updated": "2026-11-24T03:31:13Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45319991628",
    "event": "push",
    "title": "Train part 3: events for the new cut"
@@ -600,17 +611,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310289647",
    "event": "push",
    "title": "Train part 3: line 10 reworded (Whisper heard 'lap' as 'lab'); voice …"
-  },
-  {
-   "target": null,
-   "name": "Voice every part missing a voice",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-24T02:09:24Z",
-   "updated": "2026-11-24T02:09:36Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310289496",
-   "event": "push",
-   "title": "Voice every part missing a voice"
   }
  ],
  "render": {
