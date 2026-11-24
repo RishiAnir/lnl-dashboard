@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:29:06+00:00",
+ "updated": "2026-11-24T03:31:05+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -338,8 +338,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T03:30:30Z",
+   "updated": "2026-11-24T03:30:38Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45319991628",
+   "event": "push",
+   "title": "Train part 3: events for the new cut"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T03:30:23Z",
+   "updated": "2026-11-24T03:30:34Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45319976504",
+   "event": "push",
+   "title": "Train part 3: reflection framing, eyes lowered to the page until it l…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T03:28:36Z",
-   "updated": "2026-11-24T03:28:40Z",
+   "updated": "2026-11-24T03:29:11Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45319768209",
    "event": "workflow_run",
    "title": "dashboard"
@@ -589,32 +611,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310289496",
    "event": "push",
    "title": "Voice every part missing a voice"
-  },
-  {
-   "target": {
-    "series": "nighttrain",
-    "part": 3,
-    "story": "Don't Miss Your Stop"
-   },
-   "name": "Voice nighttrain part 3",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-24T02:09:23Z",
-   "updated": "2026-11-24T02:27:02Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310288782",
-   "event": "workflow_dispatch",
-   "title": "Voice nighttrain part 3"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-24T01:55:52Z",
-   "updated": "2026-11-24T01:56:53Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45308638576",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
