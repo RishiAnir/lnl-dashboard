@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:57:58+00:00",
+ "updated": "2026-11-24T22:59:36+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -338,8 +338,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T22:58:59Z",
+   "updated": "2026-11-24T22:59:03Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45505898127",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Post next part",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-24T22:58:55Z",
+   "updated": "2026-11-24T22:59:00Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45505889878",
+   "event": "schedule",
+   "title": "Post next part"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T14:57:17Z",
-   "updated": "2026-11-24T14:57:22Z",
+   "updated": "2026-11-24T14:58:05Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45419861602",
    "event": "schedule",
    "title": "dashboard"
@@ -589,28 +611,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312826973",
    "event": "push",
    "title": "Train part 3: events"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-24T02:29:54Z",
-   "updated": "2026-11-24T02:30:08Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312803105",
-   "event": "push",
-   "title": "Train part 3: bigger figures on the platform, its own cold grade, sof…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-24T02:28:37Z",
-   "updated": "2026-11-24T02:29:36Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312650586",
-   "event": "push",
-   "title": "Train part 3 voice checked ('rule sheet' = 'rules sheet')"
   }
  ],
  "render": {
