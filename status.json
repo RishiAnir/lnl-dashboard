@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:19:29+00:00",
+ "updated": "2026-11-24T03:26:31+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -338,8 +338,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T03:25:56Z",
+   "updated": "2026-11-24T03:25:59Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45319461087",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T03:18:56Z",
-   "updated": "2026-11-24T03:19:03Z",
+   "updated": "2026-11-24T03:19:34Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318632078",
    "event": "push",
    "title": "Train part 3: opens on the call still going (phone at your ear), punc…"
@@ -604,17 +615,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45308605371",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Write next script",
-   "status": "in_progress",
-   "conclusion": null,
-   "started": "2026-11-24T01:55:32Z",
-   "updated": "2026-11-24T01:55:37Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45308600174",
-   "event": "schedule",
-   "title": "Write next script"
   }
  ],
  "render": {
