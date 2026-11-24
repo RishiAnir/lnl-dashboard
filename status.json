@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:13:35+00:00",
+ "updated": "2026-11-24T02:28:04+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -317,7 +317,7 @@
      ],
      "written": true,
      "rendered": false,
-     "voiced": true
+     "voiced": false
     },
     {
      "series": "nighttrain",
@@ -336,8 +336,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T02:27:07Z",
+   "updated": "2026-11-24T02:27:10Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312462953",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T02:12:49Z",
-   "updated": "2026-11-24T02:12:53Z",
+   "updated": "2026-11-24T02:13:42Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310705102",
    "event": "push",
    "title": "Train part 3 shots (June's lace ticket, the 1987 platform in sepia, y…"
@@ -404,10 +415,10 @@
     "story": "Don't Miss Your Stop"
    },
    "name": "Voice nighttrain part 3",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "failure",
    "started": "2026-11-24T02:09:23Z",
-   "updated": "2026-11-24T02:09:39Z",
+   "updated": "2026-11-24T02:27:02Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310288782",
    "event": "workflow_dispatch",
    "title": "Voice nighttrain part 3"
@@ -598,17 +609,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45215295768",
    "event": "push",
    "title": "Train part 2: bigger train in the opening shot, warm windows, stronge…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-23T16:19:11Z",
-   "updated": "2026-11-23T16:20:03Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45215141247",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
