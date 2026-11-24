@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:19:41+00:00",
+ "updated": "2026-11-24T06:08:12+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -338,8 +338,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T06:07:29Z",
+   "updated": "2026-11-24T06:07:33Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45338108772",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T05:19:08Z",
-   "updated": "2026-11-24T05:19:12Z",
+   "updated": "2026-11-24T05:19:49Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45332463683",
    "event": "workflow_run",
    "title": "dashboard"
@@ -347,10 +358,10 @@
   {
    "target": null,
    "name": "Voice every part missing a voice",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "failure",
    "started": "2026-11-24T05:19:05Z",
-   "updated": "2026-11-24T05:19:09Z",
+   "updated": "2026-11-24T06:07:23Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45332458109",
    "event": "schedule",
    "title": "Voice every part missing a voice"
@@ -600,17 +611,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312462953",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-24T02:12:49Z",
-   "updated": "2026-11-24T02:13:42Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310705102",
-   "event": "push",
-   "title": "Train part 3 shots (June's lace ticket, the 1987 platform in sepia, y…"
   }
  ],
  "render": {
