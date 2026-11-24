@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:08:12+00:00",
+ "updated": "2026-11-24T14:57:58+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -338,8 +338,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T14:57:17Z",
+   "updated": "2026-11-24T14:57:22Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45419861602",
+   "event": "schedule",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T06:07:29Z",
-   "updated": "2026-11-24T06:07:33Z",
+   "updated": "2026-11-24T06:08:18Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45338108772",
    "event": "workflow_run",
    "title": "dashboard"
@@ -600,17 +611,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312650586",
    "event": "push",
    "title": "Train part 3 voice checked ('rule sheet' = 'rules sheet')"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-24T02:27:07Z",
-   "updated": "2026-11-24T02:28:10Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312462953",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
