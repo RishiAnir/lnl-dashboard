@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:29:28+00:00",
+ "updated": "2026-11-24T02:30:53+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -336,8 +336,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T02:30:05Z",
+   "updated": "2026-11-24T02:30:11Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312826973",
+   "event": "push",
+   "title": "Train part 3: events"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T02:29:54Z",
+   "updated": "2026-11-24T02:30:08Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312803105",
+   "event": "push",
+   "title": "Train part 3: bigger figures on the platform, its own cold grade, sof…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T02:28:37Z",
-   "updated": "2026-11-24T02:28:41Z",
+   "updated": "2026-11-24T02:29:36Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312650586",
    "event": "push",
    "title": "Train part 3 voice checked ('rule sheet' = 'rules sheet')"
@@ -587,28 +609,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45222376578",
    "event": "push",
    "title": "Train part 2 revised cut (2:48): queued for tonight's post"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-23T16:31:27Z",
-   "updated": "2026-11-23T16:32:23Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45217468934",
-   "event": "push",
-   "title": "Train part 2: events for the new cut"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-23T16:31:17Z",
-   "updated": "2026-11-23T16:31:32Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45217434556",
-   "event": "push",
-   "title": "Train part 2: audio check soundalikes; louder first punches"
   }
  ],
  "render": {
