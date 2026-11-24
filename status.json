@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:08:42+00:00",
+ "updated": "2026-11-24T04:52:32+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -338,8 +338,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T04:51:57Z",
+   "updated": "2026-11-24T04:52:01Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45329315637",
+   "event": "push",
+   "title": "Train part 3: creepier reflection (head tilts, black eyes with pinpoi…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T04:08:05Z",
-   "updated": "2026-11-24T04:08:09Z",
+   "updated": "2026-11-24T04:08:58Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45324246034",
    "event": "push",
    "title": "Train part 3 final cut: hook line, call still going from Part 2, 'You…"
@@ -600,17 +611,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310299729",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-24T02:09:24Z",
-   "updated": "2026-11-24T02:09:32Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310289647",
-   "event": "push",
-   "title": "Train part 3: line 10 reworded (Whisper heard 'lap' as 'lab'); voice …"
   }
  ],
  "render": {
