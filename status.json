@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:52:32+00:00",
+ "updated": "2026-11-24T05:03:22+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -319,7 +319,7 @@
      "written": true,
      "rendered": true,
      "voiced": true,
-     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795493326/lnl-stories/previews/nighttrain__part3.mp4"
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795496604/lnl-stories/previews/nighttrain__part3.mp4"
     },
     {
      "series": "nighttrain",
@@ -338,8 +338,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T05:02:49Z",
+   "updated": "2026-11-24T05:02:53Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45330535156",
+   "event": "push",
+   "title": "Train part 3: creepier reflection spliced into the final cut"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T04:51:57Z",
-   "updated": "2026-11-24T04:52:01Z",
+   "updated": "2026-11-24T04:52:40Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45329315637",
    "event": "push",
    "title": "Train part 3: creepier reflection (head tilts, black eyes with pinpoi…"
@@ -598,17 +609,6 @@
    "started": "2026-11-24T02:09:29Z",
    "updated": "2026-11-24T02:09:43Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310300681",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-24T02:09:29Z",
-   "updated": "2026-11-24T02:09:30Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310299729",
    "event": "workflow_run",
    "title": "dashboard"
   }
