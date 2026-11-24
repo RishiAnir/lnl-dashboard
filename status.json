@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:28:04+00:00",
+ "updated": "2026-11-24T02:29:28+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -317,7 +317,7 @@
      ],
      "written": true,
      "rendered": false,
-     "voiced": false
+     "voiced": true
     },
     {
      "series": "nighttrain",
@@ -336,8 +336,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T02:28:37Z",
+   "updated": "2026-11-24T02:28:41Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312650586",
+   "event": "push",
+   "title": "Train part 3 voice checked ('rule sheet' = 'rules sheet')"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T02:27:07Z",
-   "updated": "2026-11-24T02:27:10Z",
+   "updated": "2026-11-24T02:28:10Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45312462953",
    "event": "workflow_run",
    "title": "dashboard"
@@ -598,17 +609,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45217434556",
    "event": "push",
    "title": "Train part 2: audio check soundalikes; louder first punches"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-23T16:20:00Z",
-   "updated": "2026-11-23T16:20:51Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45215295768",
-   "event": "push",
-   "title": "Train part 2: bigger train in the opening shot, warm windows, stronge…"
   }
  ],
  "render": {
