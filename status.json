@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:03:22+00:00",
+ "updated": "2026-11-24T05:19:41+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -338,8 +338,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T05:19:08Z",
+   "updated": "2026-11-24T05:19:12Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45332463683",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-24T05:19:05Z",
+   "updated": "2026-11-24T05:19:09Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45332458109",
+   "event": "schedule",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T05:02:49Z",
-   "updated": "2026-11-24T05:02:53Z",
+   "updated": "2026-11-24T05:03:34Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45330535156",
    "event": "push",
    "title": "Train part 3: creepier reflection spliced into the final cut"
@@ -589,28 +611,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310705102",
    "event": "push",
    "title": "Train part 3 shots (June's lace ticket, the 1987 platform in sepia, y…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-24T02:09:39Z",
-   "updated": "2026-11-24T02:10:14Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310321119",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-24T02:09:29Z",
-   "updated": "2026-11-24T02:09:43Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310300681",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
