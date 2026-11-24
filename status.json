@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:10:08+00:00",
+ "updated": "2026-11-24T02:13:35+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -325,13 +325,6 @@
      "written": false,
      "rendered": false,
      "voiced": false
-    },
-    {
-     "series": "nighttrain",
-     "part": 5,
-     "written": false,
-     "rendered": false,
-     "voiced": false
     }
    ],
    "paused": false
@@ -343,8 +336,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T02:12:49Z",
+   "updated": "2026-11-24T02:12:53Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310705102",
+   "event": "push",
+   "title": "Train part 3 shots (June's lace ticket, the 1987 platform in sepia, y…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T02:09:39Z",
-   "updated": "2026-11-24T02:09:46Z",
+   "updated": "2026-11-24T02:10:14Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310321119",
    "event": "workflow_run",
    "title": "dashboard"
@@ -605,21 +609,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45215141247",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": {
-    "series": "nighttrain",
-    "part": 3,
-    "story": "Don't Miss Your Stop"
-   },
-   "name": "Write nighttrain part 3",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-23T16:19:06Z",
-   "updated": "2026-11-23T17:49:26Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45215128579",
-   "event": "workflow_dispatch",
-   "title": "Write nighttrain part 3"
   }
  ],
  "render": {
