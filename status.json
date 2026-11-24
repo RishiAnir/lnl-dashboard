@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:57:22+00:00",
+ "updated": "2026-11-24T03:19:29+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -276,10 +276,11 @@
      "title": "Your Stop",
      "summary": "June ends the call: rule five, it isn't them. She shows her lace-punched ticket: her stop was November 3, 1987, her mother waited on the platform smiling too wide, and she stayed on, and has stayed on ever since. But rule six says get off at your stop no matter what is on the platform, and the rules are in your own handwriting. Your reflection keeps reading after you look up, then blinks; you look away (rule eight). The route map scrambles into your name, the train stops, and your mom is on the platform, smiling too wide. June begs you to stay; the rules say go. The lamp flickers and she is one step closer.",
      "end_card": {
-      "title": "PART 4",
+      "title": "FINAL PART",
       "hook": "Do you get off?"
      },
      "script": [
+      "It's still talking. \"Get off at the next stop, honey. I'm right here.\"",
       "June pulls the phone from your ear and ends the call.",
       "\"Rule five,\" she says. \"If someone calls your name, it isn't them.\"",
       "Your hands won't stop shaking. \"It sounded exactly like her.\"",
@@ -295,7 +296,7 @@
       "Her needles stop. She doesn't look at you.",
       "Then you notice the handwriting.",
       "The loops on the g's. The little line through the sevens.",
-      "It's your handwriting.",
+      "It's your handwriting. Yours.",
       "\"I didn't write this,\" you whisper. \"I've never seen this before.\"",
       "In the black window, your reflection is still looking down at the page.",
       "You're already looking up. It isn't.",
@@ -337,8 +338,100 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T03:18:56Z",
+   "updated": "2026-11-24T03:19:03Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318632078",
+   "event": "push",
+   "title": "Train part 3: opens on the call still going (phone at your ear), punc…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T03:18:26Z",
+   "updated": "2026-11-24T03:19:00Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318577085",
+   "event": "push",
+   "title": "Writer: one-line hook instead of a recap, pick up exactly where the l…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T03:18:21Z",
+   "updated": "2026-11-24T03:18:30Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318565279",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T03:18:00Z",
+   "updated": "2026-11-24T03:18:24Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318522841",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T03:17:59Z",
+   "updated": "2026-11-24T03:18:01Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318522131",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T03:17:58Z",
+   "updated": "2026-11-24T03:18:00Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318518233",
+   "event": "push",
+   "title": "Train part 3: shorter hook instead of a recap, a line bridging from P…"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T03:17:58Z",
+   "updated": "2026-11-24T03:18:16Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318518190",
+   "event": "push",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": {
+    "series": "nighttrain",
+    "part": 3,
+    "story": "Don't Miss Your Stop"
+   },
+   "name": "Voice nighttrain part 3",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-24T03:17:57Z",
+   "updated": "2026-11-24T03:18:20Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318517937",
+   "event": "workflow_dispatch",
+   "title": "Voice nighttrain part 3"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T02:56:20Z",
-   "updated": "2026-11-24T02:56:28Z",
+   "updated": "2026-11-24T02:57:36Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45315961741",
    "event": "schedule",
    "title": "dashboard"
@@ -522,94 +615,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45308600174",
    "event": "schedule",
    "title": "Write next script"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-24T01:54:48Z",
-   "updated": "2026-11-24T01:55:36Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45308510672",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-24T01:54:44Z",
-   "updated": "2026-11-24T01:55:34Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45308502903",
-   "event": "push",
-   "title": "Posting: Buffer holds each post until 7:23 PM Eastern (GitHub's sched…"
-  },
-  {
-   "target": null,
-   "name": "Post next part",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-24T01:54:44Z",
-   "updated": "2026-11-24T01:55:48Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45308502671",
-   "event": "workflow_dispatch",
-   "title": "Post next part"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-23T23:08:09Z",
-   "updated": "2026-11-23T23:09:10Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45286109620",
-   "event": "push",
-   "title": "Train part 2: final cut without the glove and smile"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-23T22:45:04Z",
-   "updated": "2026-11-23T22:45:56Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45282609192",
-   "event": "push",
-   "title": "Train part 2: drop the glove and smile behind shut eyes; a shadow lea…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-23T19:05:01Z",
-   "updated": "2026-11-23T19:06:08Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45245149712",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-23T17:50:45Z",
-   "updated": "2026-11-23T17:51:41Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45232018376",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-23T17:50:40Z",
-   "updated": "2026-11-23T17:50:50Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45232004086",
-   "event": "push",
-   "title": "Train part 3 rewritten: Your Stop (June's lace ticket, rule six, your…"
   }
  ],
  "render": {
