@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T01:56:46+00:00",
+ "updated": "2026-11-24T02:10:08+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -289,7 +289,7 @@
       "\"November third, nineteen eighty seven. That was my stop.\"",
       "\"My mother was waiting on the platform, waving. Smiling too wide.\"",
       "\"So I stayed on.\" She looks down at her ticket. \"I've stayed on ever since.\"",
-      "You look down at the rules sheet in your lap.",
+      "You unfold the rules sheet again.",
       "Rule six. Your stop is the one that shows your name on the map. Get off, no matter what is on the platform.",
       "\"June, the rules say you should have gotten off.\"",
       "Her needles stop. She doesn't look at you.",
@@ -317,7 +317,7 @@
      ],
      "written": true,
      "rendered": false,
-     "voiced": false
+     "voiced": true
     },
     {
      "series": "nighttrain",
@@ -343,8 +343,78 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T02:09:39Z",
+   "updated": "2026-11-24T02:09:46Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310321119",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T02:09:29Z",
+   "updated": "2026-11-24T02:09:43Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310300681",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T02:09:29Z",
+   "updated": "2026-11-24T02:09:30Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310299729",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T02:09:24Z",
+   "updated": "2026-11-24T02:09:32Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310289647",
+   "event": "push",
+   "title": "Train part 3: line 10 reworded (Whisper heard 'lap' as 'lab'); voice …"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-24T02:09:24Z",
+   "updated": "2026-11-24T02:09:36Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310289496",
+   "event": "push",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": {
+    "series": "nighttrain",
+    "part": 3,
+    "story": "Don't Miss Your Stop"
+   },
+   "name": "Voice nighttrain part 3",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-24T02:09:23Z",
+   "updated": "2026-11-24T02:09:39Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45310288782",
+   "event": "workflow_dispatch",
+   "title": "Voice nighttrain part 3"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T01:55:52Z",
-   "updated": "2026-11-24T01:55:59Z",
+   "updated": "2026-11-24T01:56:53Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45308638576",
    "event": "workflow_run",
    "title": "dashboard"
@@ -550,72 +620,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45215128579",
    "event": "workflow_dispatch",
    "title": "Write nighttrain part 3"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-23T16:18:50Z",
-   "updated": "2026-11-23T16:19:16Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45215076767",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-23T16:06:45Z",
-   "updated": "2026-11-23T16:07:38Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45212767427",
-   "event": "push",
-   "title": "Train part 2: recap shot (the train outside, the man in red fading fr…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-23T16:06:33Z",
-   "updated": "2026-11-23T16:06:48Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45212730431",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-23T16:05:00Z",
-   "updated": "2026-11-23T16:06:01Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45212423863",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-23T16:04:58Z",
-   "updated": "2026-11-23T16:05:01Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45212417606",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Voice every part missing a voice",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-23T16:04:54Z",
-   "updated": "2026-11-23T16:06:29Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45212406335",
-   "event": "push",
-   "title": "Voice every part missing a voice"
   }
  ],
  "render": {
