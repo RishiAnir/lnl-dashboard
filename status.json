@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:00:22+00:00",
+ "updated": "2026-11-24T23:40:11+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -341,8 +341,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-24T23:39:36Z",
+   "updated": "2026-11-24T23:39:40Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45511825558",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Write next script",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-24T23:39:31Z",
+   "updated": "2026-11-24T23:39:36Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45511814165",
+   "event": "schedule",
+   "title": "Write next script"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-24T22:59:46Z",
-   "updated": "2026-11-24T22:59:50Z",
+   "updated": "2026-11-24T23:00:27Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45506011981",
    "event": "workflow_run",
    "title": "dashboard"
@@ -592,28 +614,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45315961741",
    "event": "schedule",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-24T02:55:34Z",
-   "updated": "2026-11-24T02:56:24Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45315872530",
-   "event": "push",
-   "title": "Train part 3 rendered: Your Stop (2:45), queued for tomorrow"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-24T02:32:57Z",
-   "updated": "2026-11-24T02:33:59Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45313192540",
-   "event": "push",
-   "title": "Train part 3 audio check soundalikes"
   }
  ],
  "render": {
