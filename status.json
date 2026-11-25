@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:10:30+00:00",
+ "updated": "2026-11-25T04:11:26+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -341,8 +341,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-25T04:10:49Z",
+   "updated": "2026-11-25T04:10:54Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45544990343",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-25T04:10:46Z",
+   "updated": "2026-11-25T04:10:50Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45544983568",
+   "event": "schedule",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-25T01:09:54Z",
-   "updated": "2026-11-25T01:09:58Z",
+   "updated": "2026-11-25T01:10:37Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45523670680",
    "event": "workflow_run",
    "title": "dashboard"
@@ -588,28 +610,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318522131",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-24T03:17:58Z",
-   "updated": "2026-11-24T03:18:00Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318518233",
-   "event": "push",
-   "title": "Train part 3: shorter hook instead of a recap, a line bridging from P…"
-  },
-  {
-   "target": null,
-   "name": "Voice every part missing a voice",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-24T03:17:58Z",
-   "updated": "2026-11-24T03:18:16Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45318518190",
-   "event": "push",
-   "title": "Voice every part missing a voice"
   }
  ],
  "render": {
