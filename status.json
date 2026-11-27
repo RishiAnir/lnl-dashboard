@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:28:24+00:00",
+ "updated": "2026-11-27T20:30:36+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -368,7 +368,7 @@
      ],
      "written": true,
      "rendered": false,
-     "voiced": false
+     "voiced": true
     }
    ],
    "paused": false
@@ -380,8 +380,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-27T20:30:03Z",
+   "updated": "2026-11-27T20:30:07Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46064034050",
+   "event": "push",
+   "title": "Train part 4 voice checked (Whisper heard 'folded up' as 'fold it up')"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-27T20:27:54Z",
-   "updated": "2026-11-27T20:27:57Z",
+   "updated": "2026-11-27T20:28:29Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46063804775",
    "event": "workflow_run",
    "title": "dashboard"
@@ -646,17 +657,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45903583258",
    "event": "schedule",
    "title": "Post next part"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-26T13:59:12Z",
-   "updated": "2026-11-26T13:59:16Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45834456567",
-   "event": "schedule",
-   "title": "dashboard"
   }
  ],
  "render": {
