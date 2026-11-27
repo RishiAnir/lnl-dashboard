@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:54:42+00:00",
+ "updated": "2026-11-27T20:55:29+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -369,6 +369,9 @@
      "written": true,
      "rendered": true,
      "voiced": true,
+     "posted": "2026-11-27T20:54:43+00:00",
+     "video": "https://res.cloudinary.com/rbigcy03/video/upload/v1795812881/lnl-stories/nighttrain__part4.mp4",
+     "post_note": null,
      "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795812884/lnl-stories/previews/nighttrain__part4.mp4"
     }
    ],
@@ -381,8 +384,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-27T20:54:51Z",
+   "updated": "2026-11-27T20:54:56Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46066812065",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
    "started": "2026-11-27T20:54:02Z",
-   "updated": "2026-11-27T20:54:08Z",
+   "updated": "2026-11-27T20:54:53Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46066721205",
    "event": "workflow_run",
    "title": "dashboard"
@@ -390,10 +404,10 @@
   {
    "target": null,
    "name": "Post next part",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-27T20:53:59Z",
-   "updated": "2026-11-27T20:54:03Z",
+   "updated": "2026-11-27T20:54:48Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46066715853",
    "event": "workflow_dispatch",
    "title": "Post next part"
@@ -645,17 +659,6 @@
    "started": "2026-11-26T23:22:03Z",
    "updated": "2026-11-26T23:22:06Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45910512576",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-26T23:21:58Z",
-   "updated": "2026-11-26T23:22:02Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45910505515",
    "event": "workflow_run",
    "title": "dashboard"
   }
