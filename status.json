@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:30:36+00:00",
+ "updated": "2026-11-27T20:31:44+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -380,8 +380,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-27T20:31:10Z",
+   "updated": "2026-11-27T20:31:14Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46064177108",
+   "event": "push",
+   "title": "Train part 4: smile overlay in screen space, tears drawn plain"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-27T20:30:03Z",
-   "updated": "2026-11-27T20:30:07Z",
+   "updated": "2026-11-27T20:30:43Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46064034050",
    "event": "push",
    "title": "Train part 4 voice checked (Whisper heard 'folded up' as 'fold it up')"
@@ -646,17 +657,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45903593899",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Post next part",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-26T22:15:16Z",
-   "updated": "2026-11-26T22:15:21Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45903583258",
-   "event": "schedule",
-   "title": "Post next part"
   }
  ],
  "render": {
