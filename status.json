@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:56:00+00:00",
+ "updated": "2026-11-27T23:00:09+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -384,8 +384,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-27T22:59:35Z",
+   "updated": "2026-11-27T22:59:39Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46079888485",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Write next script",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-27T22:59:32Z",
+   "updated": "2026-11-27T22:59:36Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46079881851",
+   "event": "schedule",
+   "title": "Write next script"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-27T21:55:21Z",
-   "updated": "2026-11-27T21:55:25Z",
+   "updated": "2026-11-27T21:56:05Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46073376977",
    "event": "workflow_run",
    "title": "dashboard"
@@ -639,28 +661,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45946657162",
    "event": "push",
    "title": "Voice every part missing a voice"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-27T05:34:57Z",
-   "updated": "2026-11-27T05:35:01Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45946657108",
-   "event": "push",
-   "title": "Train part 4 (finale): Get Off"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-27T03:38:24Z",
-   "updated": "2026-11-27T03:38:36Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45935341728",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
