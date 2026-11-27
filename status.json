@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:34:15+00:00",
+ "updated": "2026-11-27T20:54:42+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -367,8 +367,9 @@
       "\"Rule ten. Come back for June.\""
      ],
      "written": true,
-     "rendered": false,
-     "voiced": true
+     "rendered": true,
+     "voiced": true,
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795812884/lnl-stories/previews/nighttrain__part4.mp4"
     }
    ],
    "paused": false
@@ -380,8 +381,41 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-27T20:54:02Z",
+   "updated": "2026-11-27T20:54:08Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46066721205",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Post next part",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-27T20:53:59Z",
+   "updated": "2026-11-27T20:54:03Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46066715853",
+   "event": "workflow_dispatch",
+   "title": "Post next part"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-27T20:53:59Z",
+   "updated": "2026-11-27T20:54:05Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46066715795",
+   "event": "push",
+   "title": "Train part 4 (finale) rendered: Get Off (2:22)"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-27T20:33:43Z",
-   "updated": "2026-11-27T20:33:47Z",
+   "updated": "2026-11-27T20:34:21Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46064466207",
    "event": "push",
    "title": "Train part 4 audio check: fold it up = folded up"
@@ -622,39 +656,6 @@
    "started": "2026-11-26T23:21:58Z",
    "updated": "2026-11-26T23:22:02Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45910505515",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Write next script",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-26T23:21:55Z",
-   "updated": "2026-11-26T23:21:59Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45910500371",
-   "event": "schedule",
-   "title": "Write next script"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-26T23:03:25Z",
-   "updated": "2026-11-26T23:03:29Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45908599610",
-   "event": "schedule",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-26T22:15:26Z",
-   "updated": "2026-11-26T22:15:30Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45903605124",
    "event": "workflow_run",
    "title": "dashboard"
   }
