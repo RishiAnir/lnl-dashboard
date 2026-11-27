@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:55:29+00:00",
+ "updated": "2026-11-27T21:55:17+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -384,8 +384,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-27T21:54:41Z",
+   "updated": "2026-11-27T21:54:45Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46073305611",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Post next part",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-27T21:54:38Z",
+   "updated": "2026-11-27T21:55:14Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46073301302",
+   "event": "schedule",
+   "title": "Post next part"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-27T20:54:51Z",
-   "updated": "2026-11-27T20:54:56Z",
+   "updated": "2026-11-27T20:55:35Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46066812065",
    "event": "workflow_run",
    "title": "dashboard"
@@ -637,28 +659,6 @@
    "started": "2026-11-27T03:38:22Z",
    "updated": "2026-11-27T03:38:25Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45935337983",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Voice every part missing a voice",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-27T03:38:18Z",
-   "updated": "2026-11-27T03:38:22Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45935331537",
-   "event": "schedule",
-   "title": "Voice every part missing a voice"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-26T23:22:03Z",
-   "updated": "2026-11-26T23:22:06Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/45910512576",
    "event": "workflow_run",
    "title": "dashboard"
   }
