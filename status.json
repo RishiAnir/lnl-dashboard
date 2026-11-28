@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:31:04+00:00",
+ "updated": "2026-11-28T02:32:24+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -408,8 +408,34 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T02:31:50Z",
+   "updated": "2026-11-28T02:31:54Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098526014",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": {
+    "series": "bulkway",
+    "part": 4,
+    "story": "Snowed In at Bulkway"
+   },
+   "name": "Voice bulkway part 4",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-28T02:31:49Z",
+   "updated": "2026-11-28T02:31:54Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098523917",
+   "event": "workflow_dispatch",
+   "title": "Voice bulkway part 4"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T02:30:11Z",
-   "updated": "2026-11-28T02:30:18Z",
+   "updated": "2026-11-28T02:31:11Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098379611",
    "event": "push",
    "title": "Train part 4: events for the new cut"
@@ -659,28 +685,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46073376977",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-27T21:54:41Z",
-   "updated": "2026-11-27T21:55:22Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46073305611",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Post next part",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-27T21:54:38Z",
-   "updated": "2026-11-27T21:55:14Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46073301302",
-   "event": "schedule",
-   "title": "Post next part"
   }
  ],
  "render": {
