@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:26:58+00:00",
+ "updated": "2026-11-28T02:28:08+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -405,11 +405,22 @@
  "runs": [
   {
    "target": null,
-   "name": "fetch images",
+   "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T02:27:36Z",
+   "updated": "2026-11-28T02:27:39Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098169610",
+   "event": "push",
+   "title": "Train part 4: home is a painted street at sunrise; you walk up to the…"
+  },
+  {
+   "target": null,
+   "name": "fetch images",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T02:26:27Z",
-   "updated": "2026-11-28T02:26:31Z",
+   "updated": "2026-11-28T02:27:03Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098077283",
    "event": "workflow_dispatch",
    "title": "fetch images"
@@ -417,10 +428,10 @@
   {
    "target": null,
    "name": "dashboard",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T02:26:22Z",
-   "updated": "2026-11-28T02:26:26Z",
+   "updated": "2026-11-28T02:27:04Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098071130",
    "event": "push",
    "title": "Workflow to pull generated background images from Cloudinary into the…"
@@ -670,17 +681,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46066715853",
    "event": "workflow_dispatch",
    "title": "Post next part"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-27T20:53:59Z",
-   "updated": "2026-11-27T20:54:05Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46066715795",
-   "event": "push",
-   "title": "Train part 4 (finale) rendered: Get Off (2:22)"
   }
  ],
  "render": {
