@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:09:27+00:00",
+ "updated": "2026-11-28T03:17:38+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -408,8 +408,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T03:17:02Z",
+   "updated": "2026-11-28T03:17:05Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46102099149",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T03:08:48Z",
-   "updated": "2026-11-28T03:08:54Z",
+   "updated": "2026-11-28T03:09:33Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46101432981",
    "event": "push",
    "title": "Train part 4: events for the recut"
@@ -597,10 +608,10 @@
     "story": "Snowed In at Bulkway"
    },
    "name": "Voice bulkway part 4",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "failure",
    "started": "2026-11-28T02:31:49Z",
-   "updated": "2026-11-28T02:31:54Z",
+   "updated": "2026-11-28T03:17:00Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098523917",
    "event": "workflow_dispatch",
    "title": "Voice bulkway part 4"
@@ -670,17 +681,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098071130",
    "event": "push",
    "title": "Workflow to pull generated background images from Cloudinary into the…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:25:09Z",
-   "updated": "2026-11-28T02:25:49Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097970086",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
