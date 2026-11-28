@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:12:36+00:00",
+ "updated": "2026-11-28T20:52:29+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -412,8 +412,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T20:51:50Z",
+   "updated": "2026-11-28T20:51:54Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46188597488",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Post next part",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-28T20:51:46Z",
+   "updated": "2026-11-28T20:52:29Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46188592001",
+   "event": "schedule",
+   "title": "Post next part"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T13:11:45Z",
-   "updated": "2026-11-28T13:11:49Z",
+   "updated": "2026-11-28T13:12:42Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46148393377",
    "event": "schedule",
    "title": "dashboard"
@@ -663,28 +685,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103677134",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-28T03:35:42Z",
-   "updated": "2026-11-28T03:36:43Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103611340",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-28T03:35:40Z",
-   "updated": "2026-11-28T03:35:43Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103609274",
-   "event": "push",
-   "title": "Train part 4 final cut (painted night platform and train, June's tick…"
   }
  ],
  "render": {
