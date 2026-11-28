@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:36:33+00:00",
+ "updated": "2026-11-28T03:38:01+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -365,6 +365,9 @@
      "written": true,
      "rendered": true,
      "voiced": true,
+     "posted": "2026-11-28T03:36:24+00:00",
+     "video": "https://res.cloudinary.com/rbigcy03/video/upload/v1795836980/lnl-stories/nighttrain__part4.mp4",
+     "post_note": null,
      "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795836995/lnl-stories/previews/nighttrain__part4.mp4"
     }
    ],
@@ -403,10 +406,21 @@
   {
    "target": null,
    "name": "dashboard",
-   "status": "pending",
+   "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T03:37:18Z",
+   "updated": "2026-11-28T03:37:24Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103736061",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
    "started": "2026-11-28T03:36:34Z",
-   "updated": "2026-11-28T03:36:35Z",
+   "updated": "2026-11-28T03:37:21Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103677134",
    "event": "workflow_run",
    "title": "dashboard"
@@ -414,10 +428,10 @@
   {
    "target": null,
    "name": "dashboard",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "cancelled",
    "started": "2026-11-28T03:35:42Z",
-   "updated": "2026-11-28T03:35:47Z",
+   "updated": "2026-11-28T03:36:43Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103611340",
    "event": "workflow_run",
    "title": "dashboard"
@@ -458,10 +472,10 @@
   {
    "target": null,
    "name": "Voice every part missing a voice",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "cancelled",
    "started": "2026-11-28T03:18:05Z",
-   "updated": "2026-11-28T03:18:09Z",
+   "updated": "2026-11-28T03:37:16Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46102184024",
    "event": "schedule",
    "title": "Voice every part missing a voice"
@@ -663,21 +677,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098526014",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": {
-    "series": "bulkway",
-    "part": 4,
-    "story": "Snowed In at Bulkway"
-   },
-   "name": "Voice bulkway part 4",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-28T02:31:49Z",
-   "updated": "2026-11-28T03:17:00Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098523917",
-   "event": "workflow_dispatch",
-   "title": "Voice bulkway part 4"
   }
  ],
  "render": {
