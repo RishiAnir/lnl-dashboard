@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:19:33+00:00",
+ "updated": "2026-11-28T05:20:36+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -135,6 +135,9 @@
      "written": true,
      "rendered": true,
      "voiced": true,
+     "posted": "2026-11-28T05:19:45+00:00",
+     "video": "https://res.cloudinary.com/rbigcy03/video/upload/v1795843183/lnl-stories/bulkway__part4.mp4",
+     "post_note": null,
      "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795843175/lnl-stories/previews/bulkway__part4.mp4"
     }
    ],
@@ -409,8 +412,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T05:19:53Z",
+   "updated": "2026-11-28T05:19:57Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46111608275",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T05:18:34Z",
-   "updated": "2026-11-28T05:18:38Z",
+   "updated": "2026-11-28T05:19:44Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46111513164",
    "event": "workflow_run",
    "title": "dashboard"
@@ -429,10 +443,10 @@
   {
    "target": null,
    "name": "Post next part",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T05:18:32Z",
-   "updated": "2026-11-28T05:18:37Z",
+   "updated": "2026-11-28T05:19:50Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46111510125",
    "event": "workflow_dispatch",
    "title": "Post next part"
@@ -671,17 +685,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46101432981",
    "event": "push",
    "title": "Train part 4: events for the recut"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-28T03:08:31Z",
-   "updated": "2026-11-28T03:08:51Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46101411518",
-   "event": "push",
-   "title": "Train part 4: painted night platform and train, June holding her lace…"
   }
  ],
  "render": {
