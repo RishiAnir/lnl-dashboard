@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:40:46+00:00",
+ "updated": "2026-11-28T03:46:12+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -134,7 +134,7 @@
      ],
      "written": true,
      "rendered": false,
-     "voiced": false
+     "voiced": true
     }
    ],
    "paused": false
@@ -408,8 +408,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T03:45:33Z",
+   "updated": "2026-11-28T03:45:36Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46104369704",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T03:40:13Z",
-   "updated": "2026-11-28T03:40:17Z",
+   "updated": "2026-11-28T03:40:51Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103954989",
    "event": "workflow_run",
    "title": "dashboard"
@@ -432,10 +443,10 @@
     "story": "Snowed In at Bulkway"
    },
    "name": "Voice bulkway part 4",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T03:40:10Z",
-   "updated": "2026-11-28T03:40:21Z",
+   "updated": "2026-11-28T03:45:29Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103951195",
    "event": "workflow_dispatch",
    "title": "Voice bulkway part 4"
@@ -670,17 +681,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46100000457",
    "event": "workflow_dispatch",
    "title": "gen images"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:46:21Z",
-   "updated": "2026-11-28T02:47:00Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46099688707",
-   "event": "schedule",
-   "title": "dashboard"
   }
  ],
  "render": {
