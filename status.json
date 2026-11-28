@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:37:14+00:00",
+ "updated": "2026-11-28T02:44:14+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -405,11 +405,33 @@
  "runs": [
   {
    "target": null,
+   "name": "gen images",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-28T02:43:50Z",
+   "updated": "2026-11-28T02:43:54Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46099491232",
+   "event": "workflow_dispatch",
+   "title": "gen images"
+  },
+  {
+   "target": null,
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T02:43:39Z",
+   "updated": "2026-11-28T02:43:43Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46099478215",
+   "event": "push",
+   "title": "Workflow: generate backgrounds with NVIDIA's hosted FLUX models"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T02:36:40Z",
-   "updated": "2026-11-28T02:36:43Z",
+   "updated": "2026-11-28T02:37:19Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098928239",
    "event": "push",
    "title": "Bulkway part 4 finale shots: the seam and headlights, the crew diggin…"
@@ -663,28 +685,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097221242",
    "event": "push",
    "title": "Voice every part missing a voice"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-28T02:16:08Z",
-   "updated": "2026-11-28T02:16:11Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097221195",
-   "event": "push",
-   "title": "Bulkway ends at Part 4: finale script (the truck crew, Dana's code, t…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-27T23:21:29Z",
-   "updated": "2026-11-27T23:22:14Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46082041262",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
