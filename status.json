@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:38:01+00:00",
+ "updated": "2026-11-28T03:40:46+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -125,7 +125,7 @@
       "Through the crack under the door, you see his yellow vest. He's inside with them. Talking.",
       "A torn notebook page sticks out of his vest pocket.",
       "Dana's voice cracks. \"Marcus had my code.\"",
-      "Ray nods. \"He's the one I saw in the lot.\"",
+      "Ray stares at the door. \"He's the one I saw in the lot.\"",
       "By dawn, the snow stops. Red and blue lights flash at the top of the drift.",
       "A county plow clears the lot, and three police cruisers roll in behind it.",
       "They unchain the bay door. Four men come out in handcuffs. Then Marcus, who won't look at Dana.",
@@ -408,8 +408,78 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T03:40:13Z",
+   "updated": "2026-11-28T03:40:17Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103954989",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T03:40:12Z",
+   "updated": "2026-11-28T03:40:14Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103953430",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": {
+    "series": "bulkway",
+    "part": 4,
+    "story": "Snowed In at Bulkway"
+   },
+   "name": "Voice bulkway part 4",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-28T03:40:10Z",
+   "updated": "2026-11-28T03:40:21Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103951195",
+   "event": "workflow_dispatch",
+   "title": "Voice bulkway part 4"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T03:40:00Z",
+   "updated": "2026-11-28T03:40:14Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103937325",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T03:39:57Z",
+   "updated": "2026-11-28T03:40:03Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103933751",
+   "event": "push",
+   "title": "Bulkway part 4: l26 reworded ('Ray nods' read as one word); voice che…"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T03:39:57Z",
+   "updated": "2026-11-28T03:40:07Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103933722",
+   "event": "push",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T03:37:18Z",
-   "updated": "2026-11-28T03:37:24Z",
+   "updated": "2026-11-28T03:38:09Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103736061",
    "event": "workflow_run",
    "title": "dashboard"
@@ -610,72 +680,6 @@
    "updated": "2026-11-28T02:47:00Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46099688707",
    "event": "schedule",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "gen images",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-28T02:43:50Z",
-   "updated": "2026-11-28T02:49:50Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46099491232",
-   "event": "workflow_dispatch",
-   "title": "gen images"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:43:39Z",
-   "updated": "2026-11-28T02:44:20Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46099478215",
-   "event": "push",
-   "title": "Workflow: generate backgrounds with NVIDIA's hosted FLUX models"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:36:40Z",
-   "updated": "2026-11-28T02:37:19Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098928239",
-   "event": "push",
-   "title": "Bulkway part 4 finale shots: the seam and headlights, the crew diggin…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:32:49Z",
-   "updated": "2026-11-28T02:33:43Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098611034",
-   "event": "push",
-   "title": "Bulkway part 4: narration 1.1x"
-  },
-  {
-   "target": null,
-   "name": "fetch images",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:32:49Z",
-   "updated": "2026-11-28T02:33:26Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098610477",
-   "event": "workflow_dispatch",
-   "title": "fetch images"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:31:50Z",
-   "updated": "2026-11-28T02:32:29Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098526014",
-   "event": "workflow_run",
    "title": "dashboard"
   }
  ],
