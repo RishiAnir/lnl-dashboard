@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:33:36+00:00",
+ "updated": "2026-11-28T02:37:14+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -408,8 +408,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T02:36:40Z",
+   "updated": "2026-11-28T02:36:43Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098928239",
+   "event": "push",
+   "title": "Bulkway part 4 finale shots: the seam and headlights, the crew diggin…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T02:32:49Z",
-   "updated": "2026-11-28T02:32:54Z",
+   "updated": "2026-11-28T02:33:43Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098611034",
    "event": "push",
    "title": "Bulkway part 4: narration 1.1x"
@@ -672,17 +683,6 @@
    "started": "2026-11-27T23:21:29Z",
    "updated": "2026-11-27T23:22:14Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46082041262",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-27T22:59:35Z",
-   "updated": "2026-11-27T23:00:14Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46079888485",
    "event": "workflow_run",
    "title": "dashboard"
   }
