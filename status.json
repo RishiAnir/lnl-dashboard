@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:02:13+00:00",
+ "updated": "2026-11-28T03:09:27+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -408,8 +408,41 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T03:08:48Z",
+   "updated": "2026-11-28T03:08:54Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46101432981",
+   "event": "push",
+   "title": "Train part 4: events for the recut"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T03:08:31Z",
+   "updated": "2026-11-28T03:08:51Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46101411518",
+   "event": "push",
+   "title": "Train part 4: painted night platform and train, June holding her lace…"
+  },
+  {
+   "target": null,
+   "name": "fetch images",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-28T03:06:15Z",
+   "updated": "2026-11-28T03:06:55Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46101230769",
+   "event": "workflow_dispatch",
+   "title": "fetch images"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T03:01:35Z",
-   "updated": "2026-11-28T03:01:41Z",
+   "updated": "2026-11-28T03:02:18Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46100857497",
    "event": "push",
    "title": "Captions say Final Part on a story's last part"
@@ -472,10 +505,10 @@
   {
    "target": null,
    "name": "gen images",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T02:50:22Z",
-   "updated": "2026-11-28T02:50:26Z",
+   "updated": "2026-11-28T03:07:40Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46100000457",
    "event": "workflow_dispatch",
    "title": "gen images"
@@ -646,39 +679,6 @@
    "started": "2026-11-28T02:25:09Z",
    "updated": "2026-11-28T02:25:49Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097970086",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:21:18Z",
-   "updated": "2026-11-28T02:22:04Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097653688",
-   "event": "push",
-   "title": "Train part 4: sad brows, visible tears, platform edge line at sunrise"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:20:14Z",
-   "updated": "2026-11-28T02:21:01Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097558817",
-   "event": "push",
-   "title": "Train part 4 fixes: June actually crying (sad/sobbing mouth, worried …"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-28T02:19:24Z",
-   "updated": "2026-11-28T02:20:17Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097491947",
    "event": "workflow_run",
    "title": "dashboard"
   }
