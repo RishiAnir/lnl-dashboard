@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:17:38+00:00",
+ "updated": "2026-11-28T03:18:43+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -408,8 +408,30 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T03:18:07Z",
+   "updated": "2026-11-28T03:18:11Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46102186751",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-28T03:18:05Z",
+   "updated": "2026-11-28T03:18:09Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46102184024",
+   "event": "schedule",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T03:17:02Z",
-   "updated": "2026-11-28T03:17:05Z",
+   "updated": "2026-11-28T03:17:43Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46102099149",
    "event": "workflow_run",
    "title": "dashboard"
@@ -659,28 +681,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098169610",
    "event": "push",
    "title": "Train part 4: home is a painted street at sunrise; you walk up to the…"
-  },
-  {
-   "target": null,
-   "name": "fetch images",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:26:27Z",
-   "updated": "2026-11-28T02:27:03Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098077283",
-   "event": "workflow_dispatch",
-   "title": "fetch images"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:26:22Z",
-   "updated": "2026-11-28T02:27:04Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098071130",
-   "event": "push",
-   "title": "Workflow to pull generated background images from Cloudinary into the…"
   }
  ],
  "render": {
