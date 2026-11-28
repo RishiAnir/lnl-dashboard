@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:20:36+00:00",
+ "updated": "2026-11-28T05:46:32+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -135,10 +135,7 @@
      "written": true,
      "rendered": true,
      "voiced": true,
-     "posted": "2026-11-28T05:19:45+00:00",
-     "video": "https://res.cloudinary.com/rbigcy03/video/upload/v1795843183/lnl-stories/bulkway__part4.mp4",
-     "post_note": null,
-     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795843175/lnl-stories/previews/bulkway__part4.mp4"
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795844793/lnl-stories/previews/bulkway__part4.mp4"
     }
    ],
    "paused": false
@@ -321,7 +318,7 @@
      "posted": "2026-11-24T22:59:35+00:00",
      "video": "https://res.cloudinary.com/rbigcy03/video/upload/v1795561172/lnl-stories/nighttrain__part3.mp4",
      "post_note": null,
-     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795496604/lnl-stories/previews/nighttrain__part3.mp4"
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795844796/lnl-stories/previews/nighttrain__part3.mp4"
     },
     {
      "series": "nighttrain",
@@ -412,8 +409,41 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T05:45:52Z",
+   "updated": "2026-11-28T05:45:57Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46113563629",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "Post next part",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-28T05:45:50Z",
+   "updated": "2026-11-28T05:45:55Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46113561358",
+   "event": "workflow_dispatch",
+   "title": "Post next part"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T05:45:50Z",
+   "updated": "2026-11-28T05:45:53Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46113561352",
+   "event": "push",
+   "title": "Bulkway part 4: outside shots redrawn flat in the series style (dock,…"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T05:19:53Z",
-   "updated": "2026-11-28T05:19:57Z",
+   "updated": "2026-11-28T05:20:41Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46111608275",
    "event": "workflow_run",
    "title": "dashboard"
@@ -454,10 +484,10 @@
   {
    "target": null,
    "name": "render",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T05:04:21Z",
-   "updated": "2026-11-28T05:04:25Z",
+   "updated": "2026-11-28T05:25:51Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46110411862",
    "event": "workflow_dispatch",
    "title": "render"
@@ -652,39 +682,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46102186751",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Voice every part missing a voice",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-28T03:18:05Z",
-   "updated": "2026-11-28T03:37:16Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46102184024",
-   "event": "schedule",
-   "title": "Voice every part missing a voice"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T03:17:02Z",
-   "updated": "2026-11-28T03:17:43Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46102099149",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T03:08:48Z",
-   "updated": "2026-11-28T03:09:33Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46101432981",
-   "event": "push",
-   "title": "Train part 4: events for the recut"
   }
  ],
  "render": {
