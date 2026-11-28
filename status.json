@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:20:55+00:00",
+ "updated": "2026-11-28T02:21:57+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -408,8 +408,19 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T02:21:18Z",
+   "updated": "2026-11-28T02:21:22Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097653688",
+   "event": "push",
+   "title": "Train part 4: sad brows, visible tears, platform edge line at sunrise"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T02:20:14Z",
-   "updated": "2026-11-28T02:20:20Z",
+   "updated": "2026-11-28T02:21:01Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097558817",
    "event": "push",
    "title": "Train part 4 fixes: June actually crying (sad/sobbing mouth, worried …"
@@ -670,17 +681,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46064034050",
    "event": "push",
    "title": "Train part 4 voice checked (Whisper heard 'folded up' as 'fold it up')"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-27T20:27:54Z",
-   "updated": "2026-11-27T20:28:29Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46063804775",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
