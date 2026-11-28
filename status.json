@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:04:51+00:00",
+ "updated": "2026-11-28T05:19:33+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -133,8 +133,9 @@
       "Behind you, the front doors finally slide all the way open."
      ],
      "written": true,
-     "rendered": false,
-     "voiced": true
+     "rendered": true,
+     "voiced": true,
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795843175/lnl-stories/previews/bulkway__part4.mp4"
     }
    ],
    "paused": false
@@ -405,6 +406,39 @@
  "runs": [
   {
    "target": null,
+   "name": "dashboard",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-28T05:18:34Z",
+   "updated": "2026-11-28T05:18:38Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46111513164",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T05:18:32Z",
+   "updated": "2026-11-28T05:18:35Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46111511034",
+   "event": "push",
+   "title": "Bulkway part 4 (finale) rendered: Morning; queued"
+  },
+  {
+   "target": null,
+   "name": "Post next part",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-28T05:18:32Z",
+   "updated": "2026-11-28T05:18:37Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46111510125",
+   "event": "workflow_dispatch",
+   "title": "Post next part"
+  },
+  {
+   "target": null,
    "name": "render",
    "status": "in_progress",
    "conclusion": null,
@@ -417,10 +451,10 @@
   {
    "target": null,
    "name": "dashboard",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T05:04:14Z",
-   "updated": "2026-11-28T05:04:18Z",
+   "updated": "2026-11-28T05:04:57Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46110403421",
    "event": "push",
    "title": "Render workflow: renders every voiced part on GitHub right after the …"
@@ -648,39 +682,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46101411518",
    "event": "push",
    "title": "Train part 4: painted night platform and train, June holding her lace…"
-  },
-  {
-   "target": null,
-   "name": "fetch images",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T03:06:15Z",
-   "updated": "2026-11-28T03:06:55Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46101230769",
-   "event": "workflow_dispatch",
-   "title": "fetch images"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T03:01:35Z",
-   "updated": "2026-11-28T03:02:18Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46100857497",
-   "event": "push",
-   "title": "Captions say Final Part on a story's last part"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-28T03:01:15Z",
-   "updated": "2026-11-28T03:01:39Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46100829867",
-   "event": "workflow_run",
-   "title": "dashboard"
   }
  ],
  "render": {
