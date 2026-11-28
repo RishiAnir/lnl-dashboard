@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:16:53+00:00",
+ "updated": "2026-11-28T02:20:55+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -326,7 +326,7 @@
      "summary": "The thing wearing your mom waits at the open doors. June begs you to stay. She admits you wrote the rules yourself, every ride, and every time you stayed with her. Your ticket has one hole; hers is lace. You pull free, step off, and walk past the thing without looking while it whispers your name in three voices. June mouths 'Go' as the train leaves. At dawn your phone has signal and twenty-three missed calls from your real mom. You got off. In your pocket, under rule nine, a line you don't remember writing: Rule ten. Come back for June.",
      "end_card": {
       "title": "THE END",
-      "hook": "Rule ten. Come back for June."
+      "hook": "Don't Miss Your Stop"
      },
      "script": [
       "The lamp flickers again. Your mom is at the edge of the platform now, close enough to touch the doors.",
@@ -358,8 +358,9 @@
       "You call her back, and she picks up crying. \"Where are you?\"",
       "\"I missed my stop,\" you say. \"But I got off.\"",
       "The rules are still in your pocket, folded up, in your handwriting.",
-      "At the bottom, under rule nine, there's a line you don't remember writing.",
-      "\"Rule ten. Come back for June.\""
+      "You read them one last time. Then you drop them in the trash by the stairs.",
+      "You walk home as the sun comes up.",
+      "You never take the night train again."
      ],
      "written": true,
      "rendered": true,
@@ -407,8 +408,100 @@
    "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T02:20:14Z",
+   "updated": "2026-11-28T02:20:20Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097558817",
+   "event": "push",
+   "title": "Train part 4 fixes: June actually crying (sad/sobbing mouth, worried …"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T02:19:24Z",
+   "updated": "2026-11-28T02:20:17Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097491947",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T02:19:20Z",
+   "updated": "2026-11-28T02:19:58Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097485748",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T02:19:18Z",
+   "updated": "2026-11-28T02:19:21Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097482334",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": {
+    "series": "nighttrain",
+    "part": 4,
+    "story": "Don't Miss Your Stop"
+   },
+   "name": "Voice nighttrain part 4",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-28T02:19:12Z",
+   "updated": "2026-11-28T02:19:23Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097474776",
+   "event": "workflow_dispatch",
+   "title": "Voice nighttrain part 4"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T02:19:06Z",
+   "updated": "2026-11-28T02:19:21Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097465342",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T02:19:00Z",
+   "updated": "2026-11-28T02:19:09Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097456888",
+   "event": "push",
+   "title": "Train part 4: a conclusive ending (you throw the rules away, walk hom…"
+  },
+  {
+   "target": null,
+   "name": "Voice every part missing a voice",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T02:19:00Z",
+   "updated": "2026-11-28T02:19:15Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097456835",
+   "event": "push",
+   "title": "Voice every part missing a voice"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T02:16:10Z",
-   "updated": "2026-11-28T02:16:15Z",
+   "updated": "2026-11-28T02:17:00Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097223715",
    "event": "workflow_run",
    "title": "dashboard"
@@ -416,10 +509,10 @@
   {
    "target": null,
    "name": "Voice every part missing a voice",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "cancelled",
    "started": "2026-11-28T02:16:08Z",
-   "updated": "2026-11-28T02:16:12Z",
+   "updated": "2026-11-28T02:19:20Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097221242",
    "event": "push",
    "title": "Voice every part missing a voice"
@@ -587,102 +680,6 @@
    "updated": "2026-11-27T20:28:29Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46063804775",
    "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-27T19:54:32Z",
-   "updated": "2026-11-27T19:55:11Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46059951035",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-27T19:54:30Z",
-   "updated": "2026-11-27T19:54:33Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46059946519",
-   "event": "push",
-   "title": "Workflows: apt-get update before installing ffmpeg (stale index broke…"
-  },
-  {
-   "target": {
-    "series": "nighttrain",
-    "part": 4,
-    "story": "Don't Miss Your Stop"
-   },
-   "name": "Voice nighttrain part 4",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-27T19:54:30Z",
-   "updated": "2026-11-27T20:27:49Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46059946344",
-   "event": "workflow_dispatch",
-   "title": "Voice nighttrain part 4"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-27T19:54:16Z",
-   "updated": "2026-11-27T19:54:34Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46059918701",
-   "event": "push",
-   "title": "Train part 4 shots: the thing at the doors, June's confession and tea…"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-27T19:52:46Z",
-   "updated": "2026-11-27T19:53:26Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46059752588",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-27T19:52:05Z",
-   "updated": "2026-11-27T19:52:41Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46059674341",
-   "event": "workflow_run",
-   "title": "dashboard"
-  },
-  {
-   "target": {
-    "series": "nighttrain",
-    "part": 4,
-    "story": "Don't Miss Your Stop"
-   },
-   "name": "Voice nighttrain part 4",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-27T19:52:02Z",
-   "updated": "2026-11-27T19:52:43Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46059667426",
-   "event": "workflow_dispatch",
-   "title": "Voice nighttrain part 4"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "failure",
-   "started": "2026-11-27T19:30:15Z",
-   "updated": "2026-11-27T19:30:19Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46057141253",
-   "event": "schedule",
    "title": "dashboard"
   }
  ],
