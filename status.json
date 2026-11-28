@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:44:14+00:00",
+ "updated": "2026-11-28T02:46:54+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -405,6 +405,17 @@
  "runs": [
   {
    "target": null,
+   "name": "dashboard",
+   "status": "in_progress",
+   "conclusion": null,
+   "started": "2026-11-28T02:46:21Z",
+   "updated": "2026-11-28T02:46:24Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46099688707",
+   "event": "schedule",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
    "name": "gen images",
    "status": "in_progress",
    "conclusion": null,
@@ -417,10 +428,10 @@
   {
    "target": null,
    "name": "dashboard",
-   "status": "in_progress",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T02:43:39Z",
-   "updated": "2026-11-28T02:43:43Z",
+   "updated": "2026-11-28T02:44:20Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46099478215",
    "event": "push",
    "title": "Workflow: generate backgrounds with NVIDIA's hosted FLUX models"
@@ -674,17 +685,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097223715",
    "event": "workflow_run",
    "title": "dashboard"
-  },
-  {
-   "target": null,
-   "name": "Voice every part missing a voice",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-28T02:16:08Z",
-   "updated": "2026-11-28T02:19:20Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46097221242",
-   "event": "push",
-   "title": "Voice every part missing a voice"
   }
  ],
  "render": {
