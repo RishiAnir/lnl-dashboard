@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:18:43+00:00",
+ "updated": "2026-11-28T03:36:33+00:00",
  "stories": [
   {
    "slug": "bulkway",
@@ -365,10 +365,7 @@
      "written": true,
      "rendered": true,
      "voiced": true,
-     "posted": "2026-11-28T03:01:09+00:00",
-     "video": "https://res.cloudinary.com/rbigcy03/video/upload/v1795834865/lnl-stories/nighttrain__part4.mp4",
-     "post_note": null,
-     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795834868/lnl-stories/previews/nighttrain__part4.mp4"
+     "preview": "https://res.cloudinary.com/rbigcy03/video/upload/v1795836995/lnl-stories/previews/nighttrain__part4.mp4"
     }
    ],
    "paused": false
@@ -406,10 +403,54 @@
   {
    "target": null,
    "name": "dashboard",
+   "status": "pending",
+   "conclusion": null,
+   "started": "2026-11-28T03:36:34Z",
+   "updated": "2026-11-28T03:36:35Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103677134",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
    "status": "in_progress",
    "conclusion": null,
+   "started": "2026-11-28T03:35:42Z",
+   "updated": "2026-11-28T03:35:47Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103611340",
+   "event": "workflow_run",
+   "title": "dashboard"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "started": "2026-11-28T03:35:40Z",
+   "updated": "2026-11-28T03:35:43Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103609274",
+   "event": "push",
+   "title": "Train part 4 final cut (painted night platform and train, June's tick…"
+  },
+  {
+   "target": null,
+   "name": "Post next part",
+   "status": "completed",
+   "conclusion": "success",
+   "started": "2026-11-28T03:35:40Z",
+   "updated": "2026-11-28T03:36:27Z",
+   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46103608789",
+   "event": "workflow_dispatch",
+   "title": "Post next part"
+  },
+  {
+   "target": null,
+   "name": "dashboard",
+   "status": "completed",
+   "conclusion": "success",
    "started": "2026-11-28T03:18:07Z",
-   "updated": "2026-11-28T03:18:11Z",
+   "updated": "2026-11-28T03:18:48Z",
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46102186751",
    "event": "workflow_run",
    "title": "dashboard"
@@ -637,50 +678,6 @@
    "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098523917",
    "event": "workflow_dispatch",
    "title": "Voice bulkway part 4"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:30:11Z",
-   "updated": "2026-11-28T02:31:11Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098379611",
-   "event": "push",
-   "title": "Train part 4: events for the new cut"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "cancelled",
-   "started": "2026-11-28T02:29:54Z",
-   "updated": "2026-11-28T02:30:14Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098352639",
-   "event": "push",
-   "title": "Train part 4: painted dawn station behind the morning shots, the rule…"
-  },
-  {
-   "target": null,
-   "name": "fetch images",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:28:13Z",
-   "updated": "2026-11-28T02:28:54Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098218798",
-   "event": "workflow_dispatch",
-   "title": "fetch images"
-  },
-  {
-   "target": null,
-   "name": "dashboard",
-   "status": "completed",
-   "conclusion": "success",
-   "started": "2026-11-28T02:27:36Z",
-   "updated": "2026-11-28T02:28:14Z",
-   "url": "https://github.com/RishiAnir/lnl-stories/actions/runs/46098169610",
-   "event": "push",
-   "title": "Train part 4: home is a painted street at sunrise; you walk up to the…"
   }
  ],
  "render": {
